@@ -1,0 +1,1 @@
+reg add HKLM\Software\Microsoft\Windows\CurrentVersion\Reliability /t reg_dword /d 1 /v ShutdownIgnorePredefinedReasons /f

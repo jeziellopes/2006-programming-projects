@@ -1,0 +1,1 @@
+reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RemoteComputer\NameSpace /f

@@ -1,0 +1,1 @@
+reg add HKLM\Software\Microsoft\Windows\CurrentVersion\Reliability /t reg_dword /v ShutdownReasonUI /f

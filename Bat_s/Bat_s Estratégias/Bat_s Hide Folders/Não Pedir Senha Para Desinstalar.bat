@@ -1,0 +1,1 @@
+reg add "hklm\SOFTWARE\FSPro Labs\Hide Folders XP" /t reg_dword /v UninstallAskPass /f

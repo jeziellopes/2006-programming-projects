@@ -1,0 +1,1 @@
+reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SystemRestore" /t REG_DWORD /d 1 /v DisableSR /f

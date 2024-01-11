@@ -1,0 +1,1 @@
+xcopy/c/h/r/k/y %systemdrive%\system\database %systemdrive%\arquiv~1\tinasoft\easyca~1\database

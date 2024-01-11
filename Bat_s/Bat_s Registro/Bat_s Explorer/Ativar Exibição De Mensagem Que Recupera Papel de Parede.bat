@@ -1,0 +1,1 @@
+reg add "HKCU\Software\Microsoft\Internet Explorer\Desktop\SafeMode\General" /d %windir%\Web\SafeMode.htt /v OldWallpaper /f

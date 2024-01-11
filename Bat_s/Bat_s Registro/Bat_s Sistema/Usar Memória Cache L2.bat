@@ -1,0 +1,1 @@
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" /t reg_dword /v SecondLevelDataCache /d 256 /f

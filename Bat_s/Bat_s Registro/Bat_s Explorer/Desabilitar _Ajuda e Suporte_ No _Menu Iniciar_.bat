@@ -1,0 +1,1 @@
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\policies\explorer /t REG_DWORD /v NoSMHelp /d 1 /f

@@ -1,0 +1,12 @@
+[autorun]
+OPEN=INSTALAR.EXE /AUTORUN
+ICON=Office 2003.ico
+
+shell\configure=&Configurar...
+shell\configure\command=INSTALAR.EXE
+
+shell\install=&Instalar...
+shell\install\command=INSTALAR.EXE
+
+shell\dinstall\command=Directx\dxsetup.exe
+shell\dinstall=&DirectX(R)...

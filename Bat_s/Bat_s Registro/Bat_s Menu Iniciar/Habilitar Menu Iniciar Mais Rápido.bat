@@ -1,0 +1,1 @@
+reg add "HKCU\Control Panel\Desktop" /d 1 /v MenuShowDelay /f 

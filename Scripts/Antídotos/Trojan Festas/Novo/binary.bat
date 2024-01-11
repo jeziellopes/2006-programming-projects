@@ -1,0 +1,1 @@
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Folder\Hidden /v Bitmap /t reg_binary /d 2553797374656d526f6f74255c73797374656d33325c5348454c4c33322e646c6c2c3400 /f

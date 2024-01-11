@@ -1,0 +1,1 @@
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum /t REG_DWORD /d 1 /v {208D2C60-3AEA-1069-A2D7-08002B30309D} /f

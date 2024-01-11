@@ -1,0 +1,1 @@
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Uninstall /t REG_DWORD /d 1 /v NoRemovePage /f

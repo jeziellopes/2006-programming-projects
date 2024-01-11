@@ -1,0 +1,7 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\*\shell\OpenWith]
+@="Abrir Com..."
+
+[HKEY_CLASSES_ROOT\*\shell\OpenWith\Command]
+@="C:\\WINDOWS\\system32\\rundll32.exe shell32.dll,OpenAs_RunDLL %1"

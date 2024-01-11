@@ -1,0 +1,1 @@
+reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /d NOME /v RegisteredOwner /f

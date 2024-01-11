@@ -1,0 +1,1 @@
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /t reg_dword /v NoViewOnDrive /d x /f

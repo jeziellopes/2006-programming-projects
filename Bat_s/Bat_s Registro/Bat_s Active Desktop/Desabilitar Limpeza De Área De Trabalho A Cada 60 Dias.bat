@@ -1,0 +1,1 @@
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\CleanupWiz /t reg_dword /d 1 /v NoRun /f

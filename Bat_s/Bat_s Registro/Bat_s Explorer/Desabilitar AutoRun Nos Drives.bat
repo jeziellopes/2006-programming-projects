@@ -1,0 +1,1 @@
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /t REG_DWoRD /d 1 /v NoDriveAutoRun /f

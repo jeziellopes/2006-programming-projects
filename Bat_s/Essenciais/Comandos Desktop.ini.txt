@@ -1,0 +1,47 @@
+Todos os comandos que precisam de [.ShellClassInfo] precisam estar juntos
+porquê se o desktop.ini tiver 2 desse comando só funcionarão os comandos
+que estiverem junto ao primeiro.
+
+[FileSharingInformation]
+ShortcutName=Documentos compartilhados em ESTAÇÃO
+Elmer -> Comando serve de identificação para Documentos compartilhados
+----------------------------------------------------------------------------
+[{BE098140-A513-11D0-A3A4-00C04FD706EC}]
+IconArea_Image=Imagens\Nancher.jpg
+[.ShellClassInfo]
+IconFile=..\..\Icones\Nancher.ico
+IconIndex=0
+Elmer -> Serve para colocar uma imagem como fundo de pasta
+----------------------------------------------------------------------------
+[.ShellClassInfo]
+CLSID2={450d8fba-ad25-11d0-98a8-0800361b1103}
+InfoTip=Armazena os seus documentos, elementos gráficos e outros arquivos.
+----------------------------------------------------------------------------
+[ExtShellFolderViews]
+{BE098140-A513-11D0-A3A4-00C04FD706EC}={BE098140-A513-11D0-A3A4-00C04FD706EC}
+[{BE098140-A513-11D0-A3A4-00C04FD706EC}]
+Attributes=1
+IconArea_Image=C:\WINDOWS\CLOUD.GIF
+[.ShellClassInfo]
+ConfirmFileOp=0
+----------------------------------------------------------------------------
+[.ShellClassInfo]
+IconFile=_vti_pvt/fpdbw.ico
+IconIndex=0
+ConfirmFileOp=0
+InfoTip=Stores your local web site
+----------------------------------------------------------------------------
+[.ShellClassInfo]
+CLSID={2559a1f2-21d7-11d4-bdaf-00c04f60b9f0}
+Elmer -> Serve para trancar pastas, a pasta ganha o icone do cadiado e
+para destravar você deve criar um bat para renomear o desktop.ini ou
+deletá-lo.
+----------------------------------------------------------------------------
+[.ShellClassInfo]
+UICLSID={7BD29E00-76C1-11CF-9DD0-00A0C9034933}
+Elmer -> Serve para não ser possível criar uma nova pasta dentro da pasta onde
+tiver esse comando no desktop.ini e a pasta perde o icone.
+----------------------------------------------------------------------------
+[.ShellClassInfo]
+ConfirmFileOp=0
+NoSharing=0

@@ -1,0 +1,1 @@
+if exist desktop.ini (msg * "esta pasta possui icone") else msg * "esta pasta nao possui icone"

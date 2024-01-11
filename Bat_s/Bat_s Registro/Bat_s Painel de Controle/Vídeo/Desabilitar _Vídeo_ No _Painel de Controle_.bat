@@ -1,0 +1,1 @@
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\policies\system /t REG_DWORD /d 1 /v NoDispCPL /f

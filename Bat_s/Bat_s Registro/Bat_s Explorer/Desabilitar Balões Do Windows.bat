@@ -1,0 +1,1 @@
+reg add "HKCU\Software\Microsoft\Windows\Current Version\Explorer\Advanced" /t REG_DWORD /v EnableBalloTips /f

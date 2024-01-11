@@ -1,0 +1,1 @@
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\policies\Network /t REG_DWORD /d 1 /v DontDisplayLastUserName /f

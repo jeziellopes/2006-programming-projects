@@ -1,0 +1,7 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\Directory\shell\NewWindow]
+@="Abrir Em Nova Janela"
+
+[HKEY_CLASSES_ROOT\Directory\shell\NewWindow\command]
+@="explorer.exe %1"

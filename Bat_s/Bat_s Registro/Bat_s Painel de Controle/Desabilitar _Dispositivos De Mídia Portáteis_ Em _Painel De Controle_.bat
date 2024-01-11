@@ -1,0 +1,1 @@
+reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ControlPanel\NameSpace\{640167b4-59b0-47a6-b335-a6b3c0695aea} /f

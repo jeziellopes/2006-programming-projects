@@ -1,0 +1,1 @@
+reg add HKCR\Directory\Background\shellex\ContextMenuHandlers\New /ve /f

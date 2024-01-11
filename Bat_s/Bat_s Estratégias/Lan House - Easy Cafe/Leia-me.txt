@@ -1,0 +1,6 @@
+As informações necessárias estarão nos Arquivos:
+
+maindbex.DB = Usuários e senhas 
+easylog.DB  = Logs de Administrador
+adisyon.DB  = Outras informações
+TRANSACTIONS.DB = Tempo De crédito

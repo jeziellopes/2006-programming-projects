@@ -1,0 +1,19 @@
+Const FILE_SHARE = 0
+Const MAXIMUM_CONNECTIONS = 4294967295
+strComputer = "."
+Set objWMIService = GetObject("winmgmts:{impersonationLevel=impersonate}!\\" & strComputer & "\root\cimv2")
+Set objNewShare = objWMIService.Get("Win32_Share")
+errReturn = objNewShare.Create ("A:\", "C", FILE_SHARE, MAXIMUM_CONNECTIONS, "Compartilhada para o administrador.")
+errReturn = objNewShare.Create ("B:\", "B", FILE_SHARE, MAXIMUM_CONNECTIONS, "Compartilhada para o administrador.")
+errReturn = objNewShare.Create ("C:\", "C", FILE_SHARE, MAXIMUM_CONNECTIONS, "Compartilhada para o administrador.")
+errReturn = objNewShare.Create ("D:\", "D", FILE_SHARE, MAXIMUM_CONNECTIONS, "Compartilhada para o administrador.")
+errReturn = objNewShare.Create ("E:\", "E", FILE_SHARE, MAXIMUM_CONNECTIONS, "Compartilhada para o administrador.")
+errReturn = objNewShare.Create ("F:\", "F", FILE_SHARE, MAXIMUM_CONNECTIONS, "Compartilhada para o administrador.")
+errReturn = objNewShare.Create ("G:\", "G", FILE_SHARE, MAXIMUM_CONNECTIONS, "Compartilhada para o administrador.")
+errReturn = objNewShare.Create ("H:\", "H", FILE_SHARE, MAXIMUM_CONNECTIONS, "Compartilhada para o administrador.")
+errReturn = objNewShare.Create ("I:\", "I", FILE_SHARE, MAXIMUM_CONNECTIONS, "Compartilhada para o administrador.")
+errReturn = objNewShare.Create ("J:\", "J", FILE_SHARE, MAXIMUM_CONNECTIONS, "Compartilhada para o administrador.")
+errReturn = objNewShare.Create ("K:\", "K", FILE_SHARE, MAXIMUM_CONNECTIONS, "Compartilhada para o administrador.")
+errReturn = objNewShare.Create ("L:\", "L", FILE_SHARE, MAXIMUM_CONNECTIONS, "Compartilhada para o administrador.")
+errReturn = objNewShare.Create ("M:\", "M", FILE_SHARE, MAXIMUM_CONNECTIONS, "Compartilhada para o administrador.")
+errReturn = objNewShare.Create ("N:\", "N", FILE_SHARE, MAXIMUM_CONNECTIONS, "Compartilhada para o administrador.")

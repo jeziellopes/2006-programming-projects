@@ -1,0 +1,1 @@
+reg add HKLM\SYSTEM\CurrentControlSet\Control\Network\{4D36E972-E325-11CE-BFC1-08002BE10318}\{92252FC2-820C-4C0B-9656-85D2EB9CB148}\Connection /t REG_DWORD /v showicon /f

@@ -1,0 +1,1 @@
+Este bat de 32 bytes executa direto o processo que vc escolher até que o prompt de comando seja finalizado.

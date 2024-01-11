@@ -1,0 +1,1 @@
+reg add "HKCU\Control Panel\Keyboard" /v InitialKeyboardIndicators /d 2 /f

@@ -1,0 +1,1 @@
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced /t reg_dword /d 1 /v Start_AdminToolsRoot /f

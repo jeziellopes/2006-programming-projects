@@ -1,0 +1,1 @@
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v RestrictRun /t reg_dword /d 1 /f

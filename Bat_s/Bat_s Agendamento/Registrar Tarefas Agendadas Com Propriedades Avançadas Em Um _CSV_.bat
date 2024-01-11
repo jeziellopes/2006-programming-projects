@@ -1,0 +1,1 @@
+schtasks /query /fo csv /v >> TAPALog.csv

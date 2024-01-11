@@ -1,0 +1,2 @@
+Este bat procura a unidade que contém a pasta 'teste' e copia para dentro dela o arquivo que vc quizer.
+Neste bat o arquivo que é copiado é a calculadora do windows.

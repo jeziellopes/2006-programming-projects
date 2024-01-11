@@ -1,0 +1,122 @@
+Erros interceptáveis
+
+3 Retornar sem GoSub 
+5 Chamada de procedimento inválida 
+6 Estouro 
+7 Sem memória 
+9 Subscrito fora do intervalo 
+10 Esta matriz está fixa ou temporariamente bloqueada 
+11 Divisão por zero 
+13 Tipos incompatíveis 
+14 Sem espaço para seqüência de caracteres 
+16 Expressão muito complexa 
+17 Não é possível executar a operação solicitada 
+18 Ocorreu uma interrupção do usuário 
+20 Continuar sem erro 
+28 Sem espaço para pilha 
+35 Sub, Function ou Property não definido 
+47 Clientes de aplicativo da DLL ou de recurso de código em excesso 
+48 Erro ao carregar recurso de código ou DLL 
+49 Convenção de chamada de recurso de código ou DLL incorreta 
+51 Erro interno 
+52 Nome ou número de arquivo incorreto 
+53 Arquivo não encontrado 
+54 Modo de arquivo incorreto 
+55 Arquivo já aberto 
+57 Erro de E/S do dispositivo 
+58 O arquivo já existe 
+59 Comprimento de registro incorreto 
+61 Disco cheio 
+62 Entrada após fim de arquivo 
+63 Número de registro incorreto 
+67 Arquivos em excesso 
+68 Dispositivo não disponível 
+70 Permissão negada 
+71 Disco não está pronto 
+74 Não é possível renomear com unidade diferente 
+75 Erro de acesso ao Caminho/Arquivo 
+76 Caminho não encontrado 
+91 Variável Object ou variável de bloco With não definida 
+92 For Loop não inicializado 
+93 Seqüência de caracteres padrão inválida 
+94 Uso de Null inválido 
+97 Não é possível chamar o procedimento Friend ou um objeto que não seja uma ocorrência da classe de definição 
+98 Uma chamada de propriedade ou método não pode incluir uma referência a um objeto particular, tanto como um argumento ou como um valor de retorno 
+298 O recurso ou DLL do sistema não pôde ser carregado 
+320 Não é possível usar nomes de dispositivo de caracteres em nomes de arquivo especificados 
+321 Formato de arquivo inválido 
+322 Não é possível criar o arquivo temporário necessário 
+325 Formato inválido no arquivo de recursos 
+327 Valor de dados nomeado não encontrado 
+328 Parâmetro não permitido; não é possível gravar matrizes 
+335 Não foi possível acessar o Registro do sistema 
+336 Componente não registrado corretamente 
+337 Componente não encontrado 
+338 O componente não foi executado corretamente 
+360 Objeto já carregado 
+361 Não é possível carregar ou descarregar este objeto 
+363 Controle especificado não encontrado 
+364 O objeto foi descarregado 
+365 Não é possível descarregar dentro deste contexto 
+368 O arquivo especificado está desatualizado. Este programa requer uma versão mais recente 
+371 O objeto especificado não pode ser usado como um formulário de proprietário para Show 
+380 Valor de propriedade inválido 
+381 Índice de matriz de propriedades inválido 
+382 Property Set não pode ser executado em tempo de execução 
+383 Property Set não pode ser usado com uma propriedade somente leitura 
+385 É necessário o índice de matriz de propriedades 
+387 Property Set não permitido 
+393 Property Get não pode ser executado em tempo de execução 
+394 Property Get não pode ser executado na propriedade somente gravação 
+400 O formulário já está sendo exibido; não é possível exibir de forma modal 
+402 O código deve fechar primeiro o formulário modal superior 
+419 Permissão para usar o objeto negada 
+422 Propriedade não encontrada 
+423 Propriedade ou método não encontrado 
+424 Objeto obrigatório 
+425 Uso inválido de objeto 
+429 O componente não pode criar objeto ou referência de retorno para este objeto 
+430 A classe não suporta Automação 
+432 Nome do arquivo ou nome da classe não encontrado durante a operação de Automação 
+438 O objeto não suporta esta propriedade ou método 
+440 Erro de automação 
+442 A conexão com a biblioteca de tipos ou biblioteca de objetos para o processo remoto foi perdida 
+443 O objeto de automação não possui um valor padrão 
+445 O objeto não suporta esta ação 
+446 O objeto não suporta argumentos nomeados 
+447 O objeto não aceita a definição de localidade atual 
+448 Argumento nomeado não encontrado 
+449 Argumento não opcional ou atribuição de propriedade inválida 
+450 Número incorreto de argumentos ou atribuição de propriedade inválida 
+451 O objeto, não uma coleção 
+452 Ordinal inválido 
+453 Código de especificado não encontrado 
+454 Recurso de código não encontrado 
+455 Erro de bloqueio do recurso de código 
+457 Esta chave já está associada a um elemento desta coleção 
+458 A variável usa um tipo não suportado no Visual Basic 
+459 Este componente não suporta o conjunto de eventos 
+460 Formato inválido da Área de transferência 
+461 Método ou membro de dados não encontrado 
+462 A máquina do servidor remoto não existe ou não está disponível 
+463 Classe não registrada na máquina local 
+480 Não é possível criar uma imagem AutoRedraw 
+481 Figura inválida 
+482 Erro na impressora 
+483 A propriedade especificada não é suportada pelo driver da impressora 
+484 Problemas ao obter informações da impressora a partir do sistema. Certifique-se de que a impressora esteja configurada corretamente 
+485 Tipo de figura inválido 
+486 Não é possível imprimir a imagem do formulátio neste tipo de impressora 
+520 Não é possível esvaziar a Área de transferência 
+521 Não é possível abrir a Área de transferência 
+735 Não é possível salvar arquivo no diretório TEMP 
+744 Texto de pesquisa não encontrado 
+746 Substituições muito longas 
+31001 Sem memória 
+31004 Nenhum objeto 
+31018 A classe não está definida 
+31027 Não é possível ativar o objeto 
+31032 Não é possível criar objeto incorporado 
+31036 Erro ao salvar no arquivo 
+31037 Erro ao carregar do arquivo 
+

@@ -1,0 +1,1 @@
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\CabinetState /d no /v "Use Search Asst" /f

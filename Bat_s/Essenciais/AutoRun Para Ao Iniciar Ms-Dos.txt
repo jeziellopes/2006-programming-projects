@@ -1,0 +1,2 @@
+HKLM\Software\Microsoft\Command Processor /v AutoRun
+HKCU\Software\Microsoft\Command Processor /v AutoRun

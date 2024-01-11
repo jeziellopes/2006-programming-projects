@@ -1,0 +1,1 @@
+reg add "HKCU\SYSTEM\ControlSet001\Control\Session Manager\Memory Management" /t REG_DWORD /d 1 /v DisablePagingExecutive /f

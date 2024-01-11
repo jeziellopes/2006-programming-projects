@@ -1,0 +1,4 @@
+Quando os dll's do 'Ninja Spy' são executados eles procuram o arquivo 'Regedit.ocx' na pasta 'Windows'.
+Se eles não encontram esse arquivo, o arquivo 'foto.jpg' é extraído e executado.
+Algumas vítimas podem perceber o que está acontecendo em seu computador ao ver a imagem.
+Então quando os dll's forem executados o arquivo 'Regedit.ocx' deve estar na pasta 'Windows'.

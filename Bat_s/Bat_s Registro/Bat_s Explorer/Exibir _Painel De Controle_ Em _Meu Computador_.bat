@@ -1,0 +1,1 @@
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\HideMyComputerIcons /t REG_DWORD /v {21EC2020-3AEA-1069-A2DD-08002B30309D} /f

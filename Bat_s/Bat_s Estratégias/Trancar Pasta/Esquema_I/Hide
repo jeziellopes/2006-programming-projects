@@ -1,0 +1,7 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\Directory\shell\Hide]
+@="T&rancar"
+
+[HKEY_CLASSES_ROOT\Directory\shell\Hide\Command]
+@="cmd.exe /c \"cd %1&&xcopy/c/k/y ..\\tranc.ini .&&attrib -s -h desktop.ini&&ren desktop.ini destr.ini&&move/y destr.ini ..&&ren tranc.ini Desktop.ini&&attrib +s +h desktop.ini\""

@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<meta name="robots" content="index,follow" />
+	<link rel="stylesheet" rev="stylesheet" href="http://www.freecode.com.br/forum/lofiversion/lofiscreen.css" media="screen" />
+	<link rel="stylesheet" rev="stylesheet" href="http://www.freecode.com.br/forum/lofiversion/lofihandheld.css" media="handheld" />
+	<link rel="stylesheet" rev="stylesheet" href="http://www.freecode.com.br/forum/lofiversion/lofiprint.css" media="print" />
+	<title>FREECODE.COM.BR &gt; criação de componentes - I</title>
+</head>
+<body>
+<div id='ipbwrapper'>
+  <div class='ipbnavsmall'>
+   <a href='http://www.freecode.com.br/forum/index.php?act=Help'>Help</a> -
+   <a href='http://www.freecode.com.br/forum/index.php?act=Search'>Search</a> -
+   <a href='http://www.freecode.com.br/forum/index.php?act=Members'>Member List</a> -
+   <a href='http://www.freecode.com.br/forum/index.php?act=calendar'>Calendar</a>
+  </div>
+  <div id='largetext'>Full Version: <a href='http://www.freecode.com.br/forum/index.php?showtopic=3828'>criação de componentes - I</a></div>
+  <div class='ipbnav'><a href='./'>FREECODE.COM.BR</a> &gt; <a href='f42.html'>TECNOLOGIAS / LINGUAGENS</a> &gt; <a href='f24.html'>COM, COM+, DCOM, MSMQ, MTS</a></div>
+  
+  <div id='ipbcontent'>
+  <div class='postwrapper'>
+ <div class='posttopbar'>
+  <div class='postname'>xanburzum</div>
+  <div class='postdate'>Nov 9 2003, 11:14 PM</div>
+ </div>
+ <div class='postcontent'>
+                      A criação de componentes ActiveX é um recurso extremamente útil pois permite que tarefas<br />
+<br>rotineiras e códigos que são sempre usados em um sistema sejam criados uma única vez e<br />
+<br>utilizados em diversos sistemas.<br />
+<br><br />
+<br>Além disso, componentes ActiveX podem ser utilizados na Web, dentro de páginas HTML.<br />
+<br><br />
+<br>Primeiramente, precisamos criar um projeto de um componente ActiveX. Ao entrar no Vb ele já<br />
+<br>pergunta qual projeto desejamos criar, basta selecionar ActiveX Component.<br />
+<br><br />
+<br>O nosso componente será um relógio a ser utilizado tanto em projetos VB como em páginas na Web.<br />
+<br><br />
+<br>A primeira coisa que vemos no projeto é a área de criação do componente. Ela guarda certa<br />
+<br>semelhanças com um formulário, mas não possui barra de título, por exemplo. Esta área é o<br />
+<br>espaço que o componente irá ocupar quando estiver posicionado dentro de um form.<br />
+<br><br />
+<br>Podemos então inserir diversos componentes dentro do nosso componente. O nosso componente<br />
+<br>ficará sendo uma junção de vários componentes já existentes. Poderíamos unir labels, botões,<br />
+<br>text box, para formar um único componente.<br />
+<br><br />
+<br>No nosso caso, necessitaremos de um label e um timer. O label será posicionado no canto<br />
+<br>superior esquerdo do componente (isso é necessário para o nosso exemplo). O timer pode ser<br />
+<br>posicionado em qualquer lugar.<br />
+<br><br />
+<br>Precisaremos setar a propriedade AutoSize do Label para True. Este label será o responsável por<br />
+<br>exibir a hora do nosso relógio. O AutoSize fará com que o tamanho do label se ajuste à largura<br />
+<br>da hora. Vamos chamar o Label de LBLCLOCK.<br />
+<br><br />
+<br>Vamos dar um nome ao componente que estamos criando. Clique na área de criação do componente e<br />
+<br>na janela de propriedades dê o nome de Clock.<br />
+<br><br />
+<br>Desejamos que o componente fique do exato tamanho do mostrador de hora, não deve haver espaço<br />
+<br>vazio. Para conseguirmos isso devemos programar o evento Resize do UserControl. Utilize um<br />
+<br>duplo clique na área de criação do componente e em seguida altere o evento para Resize.<br />
+<br><br />
+<br>O evento Resize do UserControl pode ser utilizado com uma entre duas finalidades:<br />
+<br><br />
+<br>A)	Quando desejamos que o usuário possa alterar o tamanho do nosso componente, utilizamos o<br />
+<br>Resize para alterar o tamanho e a posição dos componentes internos ao nosso.<br />
+<br><br />
+<br><!--emo&B)--><img src='http://www2.freecode.com.br/freeforum/html/emoticons/cool.gif' border='0' valign='absmiddle' alt='cool.gif'><!--endemo-->	Quando desejamos que o usuário não possa alterar o tamanho do nosso componente, <br />
+<br>utilizamos o Resize para atribuir um valor fixo ao tamanho do nosso componente, fazendo<br />
+<br>com que a alteração do usuário seja ignorada.<br />
+<br><br />
+<br>No Resize deveremos atribuir ao UserControl a largura e a altura do label. O código do Resize<br />
+<br>ficará então da seguinte forma:<br />
+<br><br />
+<br>Private Sub UserControl_Resize()<br />
+<br>	UserControl.Width = lblclock.Width<br />
+<br>	UserControl.Height = lblclock.Height<br />
+<br>End Sub<br />
+<br>	<br />
+<br>Importante: Observe que mesmo após termos trocado o nome do UserControl ele continua a ser<br />
+<br>referido no código como UserControl.<br />
+<br><br />
+<br>Após isso precisaremos também garantir que quando o Label mudar de tamanho o UserControl também<br />
+<br>mudará. Isso deverá acontecer em especial quando o componente for inserido no form, na primeira<br />
+<br>exibição de hora que ocorrerá no Label.<br />
+<br><br />
+<br>Para tanto vamos programar o evento Change do Label. O evento Change do Label ocorre sempre que<br />
+<br>o caption do Label é alterado. No evento Change poderemos nos limitar a chamar a Sub do evento<br />
+<br>Resize para fazer o trabalho todo por nós. Assim sendo, o código ficará assim:<br />
+<br><br />
+<br>Private Sub lblclock_Change()<br />
+<br>    UserControl_Resize<br />
+<br>End Sub<br />
+<br><br />
+<br>Finalmente, devemos agora programar o objetivo final do nosso componente: Exibir as horas.<br />
+<br>Para tanto devemos configurar o componente Timer. Vamos atribuir 1000 à propriedade Interval do<br />
+<br>componente Timer. Isso fará com que a cada 1 segundo (1000 milisegundos) o evento OnTimer do<br />
+<br>componente Timer ocorra.<br />
+<br><br />
+<br>Vamos então programar o evento OnTimer do componente Timer. Neste evento a única coisa que<br />
+<br>precisaremos fazer é exibir as horas. O código ficará da seguinte forma:<br />
+<br><br />
+<br>Private Sub Timer1_Timer()<br />
+<br>   lblclock.Caption = Time<br />
+<br>End Sub<br />
+<br><br />
+<br>Precisamos então testar nosso componente. Para testa-lo precisaremos de um projeto, portanto<br />
+<br>devemos adicionar um projeto no Vb. Para isso utilizamos o comando File-&gt;Add Project. Observe<br />
+<br>que não estou utilizando New Project, mas sim Add Project. Isso irá criar um novo projeto sem<br />
+<br>fechar o projeto do componente que estamos criando. Desta forma estaremos trabalhando ao mesmo<br />
+<br>tempo com o projeto do componente e o projeto criado para testar o componente. Isso forma o que<br />
+<br>o VB chama de Project Group. O projeto que adicionaremos deverá ser um projeto standard.<br />
+<br><br />
+<br>Após utilizar esta instrução você terá a sua frente o form1 do projeto Standard, mas você<br />
+<br>observará que, apesar do nosso novo componente aparecer na paleta de componentes, ele aparece<br />
+<br>desabilitado.<br />
+<br><br />
+<br>Isso acontece porque a janela de criação do componente está aberta, apesar de estar por trás de<br />
+<br>outras janelas. Para solucionar isso você deverá utilizar o menu Window, selecionar e fechar<br />
+<br>todas as janelas relativas ao componente que estiverem aparecendo no menu Window.<br />
+<br><br />
+<br>Após isso, você verá o nosso componente ativo na paleta de componentes. Poderá então<br />
+<br>adiciona-lo ao form e verá o mostrador de hora exibindo a hora atual.<br />
+<br><br />
+<br>Tente alterar o tamanho do componente e você verá que o tamanho não mudará, devido ao código<br />
+<br>que utilizamos no evento Resize do UserControl.<br />
+<br><br />
+<br>Vamos agora melhorar um pouco nosso componente. Você deve ter observado que o componente possui<br />
+<br>algumas propriedades das quais não necessita, tal como TabStop e TabIndex. Para retirar essas<br />
+<br>propriedades devemos manipular as propriedades do componente.<br />
+<br><br />
+<br>Para isso abra a janela de criação do componente e procure pela propriedade CanGetFocus. Essa<br />
+<br>propriedade determina se o componente poderá ou não receber o foco dentro de um formulário. Se<br />
+<br>for setada para False, as propriedades TabStop e TabIndex automaticamente desaparecem, por<br />
+<br>serem desnecessárias.<br />
+<br><br />
+<br>Teste, mas não esqueça de fechar a janela de criação do componente ao voltar para o form1.<br />
+<br><br />
+<br>Outra alteração interessante que poderemos fazer neste componente é definir um ícone para ele.<br />
+<br>Para isso precisaremos utilizar a propriedade do componente chamada ToolBoxBitmap. Basta<br />
+<br>atribuir uma imagem a esta propriedade e estará feito : Nosso componente ganhará um ícone. Na<br />
+<br>falta de um ícone melhor selecionei o ícone de um calendário.<br />
+<br><br />
+<br>Até este ponto ainda não executamos o projeto, apenas vimos o funcionamento do componente em<br />
+<br>tempo de Design. Como temos um Project Group e não um projeto único devemos fazer mais um passo<br />
+<br>antes de podermos executar: Determinar qual o projeto que será executado primeiro.<br />
+<br><br />
+<br><br />
+<br>O projeto pelo qual desejamos iniciar a execução é o projeto Standard. Desta forma devemos, na<br />
+<br>janela do Project Explorer, marcar o projeto Standard como sendo o projeto de Start Up. Para<br />
+<br>tanto clique com o botão direito sobre o projeto Standard e selecione a opção Set as Start Up.<br />
+<br>Você observará que o projeto do componente, que estava em negrito, não mais estará, enquanto<br />
+<br>que o projeto Standard, de teste do componente, ficará em negrito por ser o projeto Start Up.<br />
+<br>Você poderá então executar o projeto.<br />
+<br><br />
+<br>Na hora de salvar o projeto você observará que o comando Save Project do menu File foi alterado<br />
+<br>para Save Project Group. Isso porque temos um gupo de projetos. Assim sendo, além dos arquivos<br />
+<br>normais dos 2 projetos será salvo um arquivo a mais com a extensão .VBG. Este arquivo (VBG)<br />
+<br>permitirá que você abra todo o grupo de projetos de uma vez só. Abrindo o VBG todos os projetos<br />
+<br>pertencentes a este grupo de projeto serão abertos.<br />
+<br><br />
+<br>Após salvar todo o grupo de projetos, vamos então compilar o nosso componente. Isso é feito da<br />
+<br>mesma forma que geramos um executável. Selecionando o projeto do componente na janela do<br />
+<br>Project Explorer e abrindo o menu File encontraremos a instrução Make ProjClock .OCX (o nome do<br />
+<br>projeto pode variar, é o nome que você deu a  ele).<br />
+<br><br />
+<br>Logo abaixo dessa instrução Make existe um segundo Make : Make Project Group. O 1o  Make irá<br />
+<br>compilar apenas o projeto selecionado. Como o projeto selecionado é o projeto de um .OCX ele de<br />
+<br>imediato identificou que o arquivo resultante será um .OCX. Já o 2o Make pode ser utilizado<br />
+<br>para compilar todos os projetos contidos no grupo. No nosso exemplo, seria criado o .OCX do<br />
+<br>Clock e um executável referente ao projeto de teste do Clock.<br />
+<br><br />
+<br>Após tudo isso, vamos então utilizar o nosso componente em um novo projeto. Para isso, basta<br />
+<br>utilizar o comando New Project. Todo o Project Group será fechado e você terá um novo projeto<br />
+<br>Standard para testar o componente.<br />
+<br><br />
+<br>O componente, como você poderá observar, não se encontra mais na paleta de componentes do VB.<br />
+<br>Precisaremos adiciona-lo à paleta de componentes. Para isso utilizaremos a instrução Project<br />
+<br>-&gt;Components.<br />
+<br><br />
+<br>Você encontrará na lista de componentes o nome do projeto do componente Clock. Esse nome foi<br />
+<br>adicionado ao Registry do equipamento quando o componente foi compilado. Caso estivesse<br />
+<br>utilizando o componente em outro micro, bastaria utilizar o botão Browse e apontar o arquivo do<br />
+<br>componente.<br />
+<br><br />
+<br>Após isso o componente aparecerá na paleta de componentes e poderá novamente ser utilizado nos<br />
+<br>seus projetos.                    
+ </div>
+</div>
+  </div>
+  <div class='smalltext'>This is a "lo-fi" version of our main content. To view the full version with more information, formatting and images, please <a href='http://www.freecode.com.br/forum/index.php?showtopic=3828'>click here</a>.</div>
+</div>
+<div id='ipbcopyright'>Invision Power Board &copy; 2001-2008 <a href='http://www.invisionpower.com'>Invision Power Services, Inc.</a></div>
+</body>
+</html>

@@ -1,0 +1,1 @@
+reg delete "HKCU\Software\Microsoft\Search Assistant\ACMru" /f

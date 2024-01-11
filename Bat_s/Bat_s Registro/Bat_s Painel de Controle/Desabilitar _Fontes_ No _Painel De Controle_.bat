@@ -1,0 +1,2 @@
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum /t REG_DWORD /d 1 /v {D20EA4E1-3957-11d2-A40B-0C5020524152} /f
+reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ControlPanel\NameSpace\{D20EA4E1-3957-11d2-A40B-0C5020524152} /f

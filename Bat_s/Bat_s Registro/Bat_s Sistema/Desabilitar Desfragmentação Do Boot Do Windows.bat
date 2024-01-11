@@ -1,0 +1,1 @@
+reg add HKCU\SOFTWARE\Microsoft\Dfrg\BootOptimizeFunction /d no /v Enable /f

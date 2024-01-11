@@ -1,0 +1,1 @@
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\WebView\BarricadedFolders /v shell:ControlPanelFolder /t reg_dword /f

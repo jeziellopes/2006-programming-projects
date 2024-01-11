@@ -1,0 +1,1 @@
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\comdlg32 /t REG_DWORD /d 1 /v NoFileMru /f 

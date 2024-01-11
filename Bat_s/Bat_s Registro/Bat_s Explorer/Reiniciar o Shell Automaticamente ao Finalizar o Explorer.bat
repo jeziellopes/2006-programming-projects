@@ -1,0 +1,1 @@
+reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v AutoRestartShell /t reg_dword /d 1 /f

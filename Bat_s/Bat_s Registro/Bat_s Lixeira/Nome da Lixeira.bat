@@ -1,0 +1,1 @@
+reg add HKCU\Software\Microsoft\Windows\ShellNoRoam\MUICache /d lixo /v @C:\WINDOWS\system32\SHELL32.dll,-8964 /f

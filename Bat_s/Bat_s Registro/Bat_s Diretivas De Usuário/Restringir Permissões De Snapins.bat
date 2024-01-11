@@ -1,0 +1,1 @@
+reg add HKCU\Software\Policies\Microsoft\MMC /t REG_DWORD /d 1 /v RestrictToPermittedSnapins /f

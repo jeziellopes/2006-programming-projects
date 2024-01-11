@@ -1,0 +1,1 @@
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{6DFD7C5C-2451-11d3-A299-00C04F8EF6AF} /f

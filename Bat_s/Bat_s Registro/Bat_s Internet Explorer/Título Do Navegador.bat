@@ -1,0 +1,1 @@
+reg add "HKCU\Software\Microsoft\Internet Explorer\Main" /d "Meu Navegador" /v "Window Title" /f

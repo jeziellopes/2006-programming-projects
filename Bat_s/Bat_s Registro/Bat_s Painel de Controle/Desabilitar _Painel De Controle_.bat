@@ -1,0 +1,1 @@
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\policies\Explorer /t REG_DWORD /d 1 /v NoControlPanel /f

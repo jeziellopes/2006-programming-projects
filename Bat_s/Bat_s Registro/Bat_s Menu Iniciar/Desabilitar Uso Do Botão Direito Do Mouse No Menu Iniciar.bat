@@ -1,0 +1,1 @@
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced /t reg_dword /v Start_EnableDragDrop /f

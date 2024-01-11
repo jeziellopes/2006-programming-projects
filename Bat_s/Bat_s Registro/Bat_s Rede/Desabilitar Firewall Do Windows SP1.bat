@@ -1,0 +1,2 @@
+reg add HKLM\SYSTEM\CurrentControlSet\Services\SharedAccess /t REG_DWORD /v Start /d 3 /f
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\HomeNetworking\PersonalFirewall /t REG_DWORD /d 1 /v ShowDisableFirewallWarning /f

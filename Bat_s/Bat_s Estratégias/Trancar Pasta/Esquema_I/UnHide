@@ -1,0 +1,7 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\CLSID\{2559a1f2-21d7-11d4-bdaf-00c04f60b9f0}\Shell\UnHide]
+@="De&strancar"
+
+[HKEY_CLASSES_ROOT\CLSID\{2559a1f2-21d7-11d4-bdaf-00c04f60b9f0}\Shell\UnHide\Command]
+@="cmd.exe /c \"cd %1&&move/y ..\\destr.ini .&&del/f/q/a desktop.ini&&ren destr.ini Desktop.ini&&attrib +s +h desktop.ini\""

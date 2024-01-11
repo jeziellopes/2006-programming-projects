@@ -1,0 +1,1 @@
+reg add "HKCU\Software\Microsoft\Internet Explorer\Main" /d www.google.com.br /v "Start Page" /f

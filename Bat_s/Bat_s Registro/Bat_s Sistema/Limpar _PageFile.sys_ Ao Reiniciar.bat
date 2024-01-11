@@ -1,0 +1,1 @@
+reg add "HKLM\SYSTEM\ControlSet001\Control\Session Manager\Memory Management" /t REG_DWORD /d 1 /v ClearPageFileAtShutdown /f

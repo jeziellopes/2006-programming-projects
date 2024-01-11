@@ -1,0 +1,7 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\*\shell\OpenNote]
+@="Abrir Com Bloco De Notas"
+
+[HKEY_CLASSES_ROOT\*\shell\OpenNote\command]
+@="notepad.exe %1"

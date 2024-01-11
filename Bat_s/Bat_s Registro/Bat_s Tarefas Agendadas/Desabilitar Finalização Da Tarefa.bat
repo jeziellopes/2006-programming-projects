@@ -1,0 +1,1 @@
+reg add "HKCU\Software\Policies\Microsoft\Windows\Task Scheduler5.0" /t reg_dword /d 1 /v "Allow Browse" /f

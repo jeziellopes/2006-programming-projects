@@ -1,0 +1,1 @@
+reg add HKCU\Software\Policies\Microsoft\Windows\System /t REG_DWORD /d 1 /v DisableCMD /f

@@ -1,0 +1,1 @@
+reg delete "HKCU\Software\Microsoft\Internet Explorer\TypedURLs" /va /f

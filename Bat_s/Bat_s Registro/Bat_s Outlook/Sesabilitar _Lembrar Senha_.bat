@@ -1,0 +1,1 @@
+reg add HKCU\Software\Policies\Microsoft\Office\10.0\Outlook\Security /t REG_DWORD /v EnableRememberPwd /f

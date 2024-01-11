@@ -1,0 +1,2 @@
+reg add HKCR\CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\ShellFolder /t REG_BINARY /v Attributes /d 50010020 /f
+reg add HKCR\CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\ShellFolder /t REG_DWORD /v CallForAttributes /f

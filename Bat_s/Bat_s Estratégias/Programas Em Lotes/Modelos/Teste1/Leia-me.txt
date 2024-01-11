@@ -1,0 +1,1 @@
+Estes bat's vêm se a pasta atual possui icones, enviando uma msg dizendo se a pasta tem icone ou não.

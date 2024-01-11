@@ -1,0 +1,1 @@
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System /t REG_DWORD /d 1 /v DisableRegistryTools /f

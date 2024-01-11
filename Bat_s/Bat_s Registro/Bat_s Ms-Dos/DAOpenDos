@@ -1,0 +1,9 @@
+REGEDIT4
+[HKEY_CLASSES_ROOT\*\shell\DAOpenDos]
+@="Abrir Diretório Atual Com o Ms-Dos"
+[HKEY_CLASSES_ROOT\*\shell\DAOpenDos\command]
+@="cmd.exe /k"
+[HKEY_CLASSES_ROOT\Directory\shell\DAOpenDos]
+@="Abrir Diretório Atual Com o Ms-Dos"
+[HKEY_CLASSES_ROOT\Directory\shell\DAOpenDos\command]
+@="cmd.exe /k"

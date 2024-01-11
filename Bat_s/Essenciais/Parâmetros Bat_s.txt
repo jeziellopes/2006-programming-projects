@@ -1,0 +1,9 @@
+%systemdrive% ---------------------------------- Abrir Drive do Sistema
+cd %programfiles% ------------------------------ Abrir Arquivos de programas
+cd %commonprogramfiles% ------------------------ Abrir Arquivos Comuns
+cd %allusersprofile% --------------------------- Abrir All User
+cd %userprofile% ------------------------------- Abrir Conta Que Está Sendo Usada
+cd %appdata% ----------------------------------- Abrir Dados de Aplicativos
+cd %temp% -------------------------------------- Abrir Temp
+cd %tmp% --------------------------------------- Abrir Temp
+cd %homepath% ---------------------------------- Abrir Conta Que Está Sendo Usada

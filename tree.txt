@@ -1,0 +1,821 @@
+[Jan 10 17:35]  .
+├── [Nov 12 21:20]  Bat_s
+│   ├── [Nov 12 21:20]  Bat_s Agendamento
+│   │   ├── [Oct 22  2006]  Agendar Limpeza Geral De _15 Em 15 Minutos_.bat
+│   │   ├── [Oct 19  2006]  Registrar Tarefas Agendadas Com Propriedades Avançadas Em Um _CSV_.bat
+│   │   ├── [Aug 28  2006]  Registrar Tarefas Agendadas Em Um _CSV_.bat
+│   │   └── [Jun 16  2006]  Remover Todos Agendamentos _II_.bat
+│   ├── [Nov 12 21:20]  Bat_s Estratégias
+│   │   ├── [Nov 12 21:20]  Abrir PEN JS
+│   │   │   └── [Feb 20  2007]  Abrir PEN JS.bat
+│   │   ├── [Nov 12 21:20]  Active Blocked
+│   │   │   └── [Apr 20  2007]  Quebrar Seguranca Active Blocked.bat
+│   │   ├── [Nov 12 21:20]  Adicionar Bat_s Em _Mostrar Área De Trabalho_
+│   │   │   ├── [Nov 12 21:20]  Arquivos
+│   │   │   │   ├── [Oct 31  2006]  mostra.bat
+│   │   │   │   └── [Oct 20  2006]  mostra.lnk
+│   │   │   ├── [Oct 16  2006]  Desinstalar Extratégia.bat
+│   │   │   └── [Oct 22  2006]  Instalar Extratégia.bat
+│   │   ├── [Nov 12 21:20]  AutoRun 1
+│   │   │   ├── [Oct 22  2006]  Antidoto.bat
+│   │   │   ├── [Oct 11  2006]  AS.bat
+│   │   │   ├── [Oct 11  2006]  Auto.bat
+│   │   │   ├── [Oct 22  2006]  Cmd_s.bat
+│   │   │   ├── [Mar 10  2007]  Desinstalar.bat
+│   │   │   └── [Mar 10  2007]  Instalar.bat
+│   │   ├── [Nov 12 21:20]  AutoRun 2
+│   │   │   ├── [Oct 24  2006]  Auto.bat
+│   │   │   └── [Nov  7  2006]  Instalar.bat
+│   │   ├── [Nov 12 21:20]  Bat_s Hide Folders
+│   │   │   ├── [Aug 30  2006]  Ao Fechar Apenas Minimizar Na Bandeja.bat
+│   │   │   ├── [Aug 30  2006]  Ao Mnimizar Apenas Minimizar Na Barra De Tarefas.bat
+│   │   │   ├── [Aug 30  2006]  Desabilitar Tecla De Atalho Que Destrancar Pasta.bat
+│   │   │   ├── [Aug 30  2006]  Desabilitar Tecla De Atalho Que Mostra Janela Do Programa.bat
+│   │   │   ├── [Aug 30  2006]  Desabilitar Tecla De Atalho Que Oculta Ícone Na Bandeja.bat
+│   │   │   ├── [Aug 30  2006]  Desabilitar Tecla De Atalho Que Trancar Pasta.bat
+│   │   │   ├── [Aug 30  2006]  Não Esconder Na Barra De Tarefas.bat
+│   │   │   ├── [Aug 30  2006]  Não Excluir Da Lixeira Arquivos Que Originarem De Pastas Trancadas.bat
+│   │   │   ├── [Aug 30  2006]  Não Limpar Recent Ao Fechar.bat
+│   │   │   ├── [Aug 30  2006]  Não Pedir Senha Para Desinstalar.bat
+│   │   │   ├── [Aug 30  2006]  Restaurar Configurações Originais.bat
+│   │   │   ├── [Apr 19  2007]  Tirar Senha HFXP 1.2.bat
+│   │   │   └── [Apr 18  2007]  Tirar Senha HFXP 3.1.bat
+│   │   ├── [Nov 12 21:20]  Compartilhamento
+│   │   │   ├── [Apr 27  2007]  Antídoto.bat
+│   │   │   ├── [Apr 17  2007]  Compartilhar Pastas.bat
+│   │   │   ├── [Feb 20  2007]  Compartilhar Tudo e Desabilitar Descompartilhamento.bat
+│   │   │   └── [Nov  4  2006]  Comp.bat
+│   │   ├── [Nov 12 21:20]  Estrutura De Todas As Pastas Do Disco (C) (D) (E)
+│   │   │   └── [Nov 11  2006]  Estrutura De Todas As Pastas Do Disco (C) (D) (E).bat
+│   │   ├── [Nov 12 21:20]  Executar Aplicações Muito Usadas Com Teclas De Atalho
+│   │   │   ├── [Nov 12 21:20]  Arquivos
+│   │   │   │   ├── [Dec  8  2008]  CPU-Z.lnk
+│   │   │   │   ├── [Jan  4  2009]  Everest.lnk
+│   │   │   │   ├── [Oct 27  2006]  Finalizar Explorer.bat
+│   │   │   │   ├── [Mar 10  2007]  Finalizar Explorer.lnk
+│   │   │   │   ├── [Jun 26  2008]  Gerenciador de Dispositivos.lnk
+│   │   │   │   ├── [Dec  8  2008]  GPU-Z.lnk
+│   │   │   │   ├── [May 10  2008]  Limpeza Geral.bat
+│   │   │   │   ├── [Mar 15  2007]  Limpeza Geral.lnk
+│   │   │   │   ├── [Mar 10  2007]  Limpeza.lnk
+│   │   │   │   ├── [Mar 10  2007]  Ms-Dos.lnk
+│   │   │   │   ├── [Oct  4  2006]  Opcoes De Pasta.lnk
+│   │   │   │   ├── [Jan  4  2009]  Performance Test 4.0.lnk
+│   │   │   │   ├── [Aug  1  2007]  regedit.lnk
+│   │   │   │   ├── [Dec 22  2007]  Salatiel.lnk
+│   │   │   │   └── [Feb 13  2008]  Serials Nancher.lnk
+│   │   │   ├── [Jan  4  2009]  Desinstalar Teclas De Atalho.bat
+│   │   │   └── [Mar  1  2009]  Instalar Teclas De Atalho.bat
+│   │   ├── [Nov 12 21:20]  Lan House - Easy Cafe
+│   │   │   ├── [Oct 22  2006]  Auto.bat
+│   │   │   ├── [Oct 25  2006]  Comp.bat
+│   │   │   ├── [Oct  2  2006]  Copy.bat
+│   │   │   ├── [Oct 19  2006]  FECC.bat
+│   │   │   ├── [Oct 19  2006]  FECS.bat
+│   │   │   ├── [Jun 16  2006]  Info.bat
+│   │   │   ├── [May 12  2006]  Leia-me.txt
+│   │   │   ├── [Oct 22  2006]  Limp.bat
+│   │   │   └── [Oct  2  2006]  MC.bat
+│   │   ├── [Nov 12 21:20]  Lan House - Timer Cafe
+│   │   │   ├── [Mar 17  2008]  Desabilita Senha TimerCafé.bat
+│   │   │   ├── [Nov 10  2006]  Fechar TimerCafé E Não Executar + Na Inicialização.bat
+│   │   │   ├── [Mar 17  2008]  Habilita Senha TimerCafé.bat
+│   │   │   └── [Nov 10  2006]  TC
+│   │   ├── [Nov 12 21:20]  _Ninja Spy Trojan Fix_
+│   │   │   ├── [Mar 11  2008]  Antídoto.bat
+│   │   │   ├── [Jan 13  2007]  Colocar Arquivos Do _Ninja Spy Trojan Fix_ Do Sistema.bat
+│   │   │   └── [Oct 25  2006]  Leia-me.txt
+│   │   ├── [Nov 12 21:20]  Nome De Todos Os Arquivos Do Disco (C) (D) (E) Em _txt_
+│   │   │   └── [Aug 12  2006]  Nome De Todos Os Arquivos Do Disco (C) (D) (E) Em _txt_.bat
+│   │   ├── [Nov 12 21:20]  Permissão de Usuários
+│   │   │   └── [Aug 31  2007]  Acesso total a todos os arquivos do computador.bat
+│   │   ├── [Nov 12 21:20]  Programas Em Lotes
+│   │   │   ├── [Nov 12 21:20]  Mandar Algumas Informações Para PenDrive
+│   │   │   │   └── [Nov 10  2006]  Pegar Informações.bat
+│   │   │   └── [Nov 12 21:20]  Modelos
+│   │   │       ├── [Nov 12 21:20]  Teste1
+│   │   │       │   ├── [Nov  4  2006]  Leia-me.txt
+│   │   │       │   ├── [Nov  4  2006]  Teste1_I.bat
+│   │   │       │   └── [Nov  4  2006]  Teste1_II.bat
+│   │   │       ├── [Nov 12 21:20]  Teste2
+│   │   │       │   ├── [Nov  8  2006]  Leia-me.txt
+│   │   │       │   └── [Nov  4  2006]  Teste2.bat
+│   │   │       └── [Nov 12 21:20]  Teste3
+│   │   │           ├── [Nov  8  2006]  Leia-me.txt
+│   │   │           └── [Nov  4  2006]  Teste3.bat
+│   │   ├── [Nov 12 21:20]  Trancar Pasta
+│   │   │   ├── [Nov 12 21:20]  Esquema_I
+│   │   │   │   ├── [Oct 30  2006]  Desinstalar Esquema.bat
+│   │   │   │   ├── [Nov 10  2006]  Hide
+│   │   │   │   ├── [Oct 30  2006]  Instalar Esquema.bat
+│   │   │   │   ├── [Nov  1  2006]  tranc.ini
+│   │   │   │   └── [Nov 10  2006]  UnHide
+│   │   │   └── [Nov 12 21:20]  Esquema_II
+│   │   │       ├── [Nov  8  2006]  Destrancar.bat
+│   │   │       ├── [Oct 31  2006]  Trancar.bat
+│   │   │       └── [Oct 25  2006]  tranc.ini
+│   │   └── [Nov 12 21:20]  Winspião
+│   │       ├── [Nov  2  2006]  Desinstalar Winspião.bat
+│   │       ├── [Oct 27  2006]  Fechar Winspião.bat
+│   │       ├── [Oct 26  2006]  Instalar Winspião.bat
+│   │       ├── [Jan  6  2007]  Limpar Cache De Log_s.bat
+│   │       └── [Oct 26  2006]  Pegar Log_s.bat
+│   ├── [Feb 21  2007]  Bat_s.ico
+│   ├── [Nov 12 21:20]  Bat_s Limpeza
+│   │   ├── [Oct 26  2006]  Limpar _Histórico_.bat
+│   │   ├── [Oct 27  2006]  Limpar _Recent_.bat
+│   │   ├── [Oct 27  2006]  Limpar _Temp_.bat
+│   │   ├── [Oct 26  2006]  Limpar _Temporary Internet Files_.bat
+│   │   └── [May 10  2008]  Limpeza Geral.bat
+│   ├── [Nov 12 21:20]  Bat_s Registro
+│   │   ├── [Nov 12 21:20]  Bat_s Active Desktop
+│   │   │   ├── [Jun 16  2006]  Desabilitar _ActiveDesktop_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Alterações No _ActiveDesktop_.bat
+│   │   │   ├── [Aug 10  2006]  Desabilitar Limpeza De Área De Trabalho A Cada 60 Dias.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Mudança Do Papel De Parede.bat
+│   │   │   ├── [Jun 16  2006]  Disabilitar Componetes.bat
+│   │   │   ├── [Jun 16  2006]  Forçar Ativação Do _ActiveDektop_.bat
+│   │   │   ├── [Jun 16  2006]  Não Adicionar Componetes.bat
+│   │   │   ├── [Jun 16  2006]  Não Deletar Componetes.bat
+│   │   │   ├── [Jun 16  2006]  Não Editar Componetes.bat
+│   │   │   └── [Jun 16  2006]  Não Usar HTML_s Como Papel De Parede.bat
+│   │   ├── [Nov 12 21:20]  Bat_s Diretivas De Usuário
+│   │   │   ├── [Oct  5  2006]  Restringir Modo De Autor.bat
+│   │   │   └── [Oct  5  2006]  Restringir Permissões De Snapins.bat
+│   │   ├── [Nov 12 21:20]  Bat_s Explorer
+│   │   │   ├── [Feb  8  2007]  _Abrir Com Bloco De Notas_ Para Todos os Arquivos.bat
+│   │   │   ├── [Oct 13  2006]  Abrir Com... Para Todos os Arquivos.bat
+│   │   │   ├── [Oct 13  2006]  Abrir Drive E Pasta Em Nova Janela.bat
+│   │   │   ├── [Nov  3  2006]  Adicionar a Novo Arquivo _Bat Reg Ini e Inf_.bat
+│   │   │   ├── [Jan  8  2008]  Ajustar Tamanho das Barras do Explorer.bat
+│   │   │   ├── [Oct 23  2006]  Ativar Exibição De Mensagem Que Recupera Papel de Parede.bat
+│   │   │   ├── [Oct 23  2006]  Barra De Ferramentas Com BG.bat
+│   │   │   ├── [Oct 23  2006]  Barra De Ferramentas Sem BG.bat
+│   │   │   ├── [Dec 13  2006]  BGJ.bmp
+│   │   │   ├── [Jun 16  2006]  Bloquear Drives....bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Abrir Explorer Usando _WIN+E_.bat
+│   │   │   ├── [Sep 11  2006]  Desabilitar A Criação De Novo Arquivo.bat
+│   │   │   ├── [Jan  8  2007]  Desabilitar _Ajuda e Suporte_ No _Menu Iniciar_.bat
+│   │   │   ├── [Jul 17  2006]  Desabilitar Assintente De Pesquisa.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar AutoRun Nos Drives.bat
+│   │   │   ├── [Oct  5  2006]  Desabilitar Balões Do Windows.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Barra De Endereços No Explorer.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Barra De Ferramentas No Explorer.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Barra De Links No Explorer.bat
+│   │   │   ├── [Jul 17  2006]  Desabilitar _Bloquear_ e _Desbloquear_ _Barra de Tarefas_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Botão De Pesquisa Na Barra De Ferramenta Do Explorer.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Documentos Compartilhados_ E _Meus Documentos_ Em _Meu Computador_.bat
+│   │   │   ├── [May 15  2007]  Desabilitar _Executar..._.bat
+│   │   │   ├── [Oct  7  2006]  Desabilitar _Gerenciar_ Em _Meu Computador_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Gravação De CD_s Do Windows.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Hardware_ Em _Propriedades_ de Disco.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Menu _Arquivo_ No Explorer.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Meu Computador_ No Desktop.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Meus Documentos_ No Desktop.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Meus Locais De Rede_ No Desktop.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Opções da Barra de Ferramentas.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Opções de Pasta_.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Pastas da Web_ Em _Meu Computador_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Personalizar_ Na Barra De Ferramentas.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Pesquisa_ No Explorer.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Segurança Em Propriedades de Disco.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Windwos Update_.bat
+│   │   │   ├── [Sep 13  2002]  Desativar Combinações De Teclas Com A Tecla _WIN_.bat
+│   │   │   ├── [Mar 31  2008]  Desativar Personagem Animado em Pesquizar.bat
+│   │   │   ├── [Jun 16  2006]  Disabilitar _Propriedades_ De Meu Computador.bat
+│   │   │   ├── [Oct 28  2006]  DNewWindow
+│   │   │   ├── [Oct  5  2006]  Exibir _Barra De Ferramentas E Menu Iniciar_ Em _Meu Computador_.bat
+│   │   │   ├── [Jun 16  2006]  Exibir _Conexões De Rede_ Em _Meu Computador_.bat
+│   │   │   ├── [Jun 16  2006]  Exibir _Dispositivos De Mídia Portáteis_ Em _Meu Computador_.bat
+│   │   │   ├── [Jun 16  2006]  Exibir _Ferramentas Administrativas_ Em _Meu Computador_.bat
+│   │   │   ├── [Jun 16  2006]  Exibir _Fontes_ Em _Meu Computador_.bat
+│   │   │   ├── [Jun 16  2006]  Exibir _Impressoras E Aparelhos De Fax_ Em _Meu Computador_.bat
+│   │   │   ├── [Jun 16  2006]  Exibir _Internet Explorer_ Em _Meu Computador_.bat
+│   │   │   ├── [Jun 16  2006]  Exibir _Lixeira_ Em _Meu Computador_.bat
+│   │   │   ├── [Jun 16  2006]  Exibir _Meus Locais De Rede_ Em _Meu Computador_.bat
+│   │   │   ├── [Jun 16  2006]  Exibir _Microsoft Office Outlook_ Em _Meu Computador_.bat
+│   │   │   ├── [Jun 16  2006]  Exibir _Opções De Pasta_ Em _Meu Computador_.bat
+│   │   │   ├── [Jun 16  2006]  Exibir _Painel De Controle_ Em _Meu Computador_.bat
+│   │   │   ├── [Jun 16  2006]  Exibir _Pasta De Programas_ Em _Meu Computador_.bat
+│   │   │   ├── [Jun 16  2006]  Exibir _Pasta Do Menu Iniciar_ Em _Meu Computador_.bat
+│   │   │   ├── [Jun 16  2006]  Exibir _Scanners E Câmeras_ Em _Meu Computador_ .bat
+│   │   │   ├── [Jun 16  2006]  Exibir _Tarefas Agendadas_ Em _Meu Computador_.bat
+│   │   │   ├── [Oct 28  2006]  Finalizar Explorer.bat
+│   │   │   ├── [Oct 27  2006]  Habilitar Autorun Em Todas As Unidades.bat
+│   │   │   ├── [Jun 16  2006]  Icones Pequenos Na Barra De Ferramentas.bat
+│   │   │   ├── [Jun 16  2006]  Limpar Documentos Recentes Ao Fechar.bat
+│   │   │   ├── [Nov  4  2006]  Limpar Texto Digitado No _Pesquisar_.bat
+│   │   │   ├── [Jun 16  2006]  Limpar URL_s Digitados no Executar.bat
+│   │   │   ├── [Oct  5  2006]  Não Exibir Atributos De Arquivos E Pastas Ao Manter O Cursor Sobre Eles.bat
+│   │   │   ├── [Oct  5  2006]  Ocultar Drives....bat
+│   │   │   ├── [Oct 28  2006]  OpenNote
+│   │   │   ├── [Oct 28  2006]  OpenWith
+│   │   │   ├── [Sep  8  2008]  Personalizar Barra de Ferramentas.bat
+│   │   │   ├── [Oct 28  2006]  PNewWindow
+│   │   │   ├── [Feb 20  2007]  Reiniciar o Shell Automaticamente ao Finalizar o Explorer.bat
+│   │   │   ├── [Oct 27  2006]  Retirar Novo Arquivo _Bat e Reg_.bat
+│   │   │   └── [Jun 16  2006]  Tira Seta Do Atalho.bat
+│   │   ├── [Nov 12 21:20]  Bat_s Impressora
+│   │   │   ├── [Jun 16  2006]  Desabilitar Compartilhamento De Impressora.bat
+│   │   │   ├── [Jul 25  2006]  Disabilitar Adicionar Impressora.bat
+│   │   │   ├── [Jul 25  2006]  Disabilitar Deletar Impressora.bat
+│   │   │   └── [Jul 25  2006]  Disabilitar Impressora.bat
+│   │   ├── [Nov 12 21:20]  Bat_s Internet Explorer
+│   │   │   ├── [Jul 25  2006]  Abrir Mais Rápido.bat
+│   │   │   ├── [Jun 16  2006]  Alterar Página Inicial.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Abrir..._.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Abrir Em Nova Janela_.bat
+│   │   │   ├── [Oct 19  2006]  Desabilitar _Ajuda_.bat
+│   │   │   ├── [May  9  2007]  Desabilitar _Barra de Status_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Escolha De Diretório Para Download.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Favoritos_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Fechar_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Importar e Exportar Favoritos_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Imprimir_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Novo_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Opções da Internet_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Salvar Como..._.bat
+│   │   │   ├── [Jun 16  2006]  Limpar URL_s Digitados Na Barra De Endereços.bat
+│   │   │   └── [Sep 19  2006]  Título Do Navegador.bat
+│   │   ├── [Nov 12 21:20]  Bat_s Lixeira
+│   │   │   ├── [Oct 27  2006]  Deletar a Lixeira.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Propriedades Da Lixeira.bat
+│   │   │   ├── [Jun 16  2006]  Lixeira Com Renomear.bat
+│   │   │   ├── [Jun 16  2006]  Lixeira Sem Renomear.bat
+│   │   │   ├── [Jun 16  2006]  Não Mandar Arquivos Para A Lixeira Ao Deletá-los.bat
+│   │   │   ├── [Jun 16  2006]  Nome da Lixeira.bat
+│   │   │   └── [Jun 16  2006]  Recuperar a Lixeira.bat
+│   │   ├── [Nov 12 21:20]  Bat_s Menu Iniciar
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Ajuda e Suporte_ No Menu Iniciar.bat
+│   │   │   ├── [Sep  9  2006]  Desabilitar Alterações No _Menu Iniciar_.bat
+│   │   │   ├── [Oct 19  2006]  Desabilitar _Conecções De Rede_ Como Link No Menu Iniciar.bat
+│   │   │   ├── [Oct 19  2006]  Desabilitar _Conecções De Rede_ No Menu Iniciar.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Definir Acesso A Padrões Do Programa_ No _Menu Iniciar_.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Documentos Recentes_ No Menu Iniciar.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Executar_ No Menu Iniciar.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Favoritos_ No Menu Iniciar.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Fixar No Menu Iniciar_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Icones Grandes no Menu Iniciar.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Icones_ No Menu Iniciar.bat
+│   │   │   ├── [Oct 19  2006]  Desabilitar _Impressoras e Aparelhos de Fax_ No Menu Iniciar.bat
+│   │   │   ├── [Oct 19  2006]  Desabilitar _Meu Computador_ No Menu Iniciar.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Meus Documentos_ No Menu Iniciar.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Meus Locais De Rede_ No Menu Iniciar.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Minhas Imagens_ No Menu Iniciar.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Minhas Músicas_ No Menu Iniciar.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Nome De Usuário No Menu Iniciar.bat
+│   │   │   ├── [Oct 19  2006]  Desabilitar _Painel De Controle_ No Menu Iniciar.bat
+│   │   │   ├── [Oct 19  2006]  Desabilitar _Pesquisar_ No Menu Iniciar.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar Propriedades Do Menu Iniciar.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Realçar Programas Recém-Instalados_ No Menu Iniciar.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Sub Pastas_ No Menu Iniciar.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Todos Programas_ No Menu Iniciar.bat
+│   │   │   ├── [Jul 25  2006]  Desabilitar Uso Do Botão Direito Do Mouse No Menu Iniciar.bat
+│   │   │   ├── [Oct  5  2006]  Disabilitar _Conexões de Rede_ No Menu Iniciar.bat
+│   │   │   ├── [Jul 25  2006]  Exibir _Conecções De Rede_ Como Link No Menu Iniciar.bat
+│   │   │   ├── [Oct 19  2006]  Exibir _Documentos Recentes_ Como Link No Menu Iniciar.bat
+│   │   │   ├── [Oct 19  2006]  Exibir _Favoritos_ Como Link No Menu Iniciar.bat
+│   │   │   ├── [Jul 25  2006]  Exibir _Ferramentas Administrativas_ Na Raiz Do Menu Iniciar.bat
+│   │   │   ├── [Oct 19  2006]  Exibir _Impressoras e Aparelhos de Fax_ Como Link No Menu Iniciar.bat
+│   │   │   ├── [Oct 19  2006]  Exibir _Meu Computador_ Como Link No Menu Iniciar.bat
+│   │   │   ├── [Oct 19  2006]  Exibir _Meus Documentos_ Como Link No Menu Iniciar.bat
+│   │   │   ├── [Oct 19  2006]  Exibir _Minhas Imagens_ Como Link No Menu Iniciar.bat
+│   │   │   ├── [Oct 19  2006]  Exibir _Minhas Músicas_ Como Link No Menu Iniciar.bat
+│   │   │   ├── [Jul 25  2006]  Exibir _Painel De Controle_ Como Link No Menu Iniciar.bat
+│   │   │   ├── [Jun 16  2006]  Habilitar Apenas _Menu Iniciar Clássico_.bat
+│   │   │   ├── [Jun 16  2006]  Habilitar Menu Iniciar Mais Rápido.bat
+│   │   │   ├── [Jul 25  2006]  Não Abrir Link _Todos Os Programas_ Automaticamente Ao Posicionar O Mouse Sobre Ele.bat
+│   │   │   ├── [Jul 25  2006]  Não Exibir Programas Na lista De Programas Do Menu Iniciar.bat
+│   │   │   └── [Jul 25  2006]  Não Realçar Programas Recém Instalados.bat
+│   │   ├── [Nov 12 21:20]  Bat_s Messenger
+│   │   │   ├── [Jun 16  2006]  Desabilitar Audio No Messenger.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Phone No Messenger.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Transferência de Arquivo No Messenger.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Vídeo No Messenger.bat
+│   │   │   ├── [Jun 16  2006]  Previnir Atualizão Automática.bat
+│   │   │   ├── [Jun 16  2006]  Previnir AutoRun.bat
+│   │   │   └── [Jun 16  2006]  Previnir Run.bat
+│   │   ├── [Nov 12 21:20]  Bat_s Ms-Dos
+│   │   │   ├── [Jan  9  2007]  Abrir Diretório Atual Com o Ms-Dos.bat
+│   │   │   ├── [Oct 31  2006]  Abrir Drive E Pasta Com o Ms-Dos.bat
+│   │   │   ├── [May 17  2007]  DAOpenDos
+│   │   │   ├── [Jun 16  2006]  Desabilitar MS-DOS.bat
+│   │   │   └── [May 17  2007]  DPOpenDos
+│   │   ├── [Nov 12 21:20]  Bat_s Outlook
+│   │   │   ├── [Jul 25  2006]  Outlook Abrindo Mais Rápido.bat
+│   │   │   └── [Oct  5  2006]  Sesabilitar _Lembrar Senha_.bat
+│   │   ├── [Nov 12 21:20]  Bat_s Painel de Controle
+│   │   │   ├── [Nov 12 21:20]  Adicionar Ou Remover Programas
+│   │   │   │   ├── [Jun 16  2006]  Desabilitar _Adicionar Novos Programas_ em _Adicionar Remover Programas_.bat
+│   │   │   │   ├── [Jun 16  2006]  Desabilitar _Adicionar Remover Componetes do Windows_ em _Adicionar Remover Programas_.bat
+│   │   │   │   ├── [Jun 16  2006]  Desabilitar _Adicionar Remover Programas_ No _Painel De Controle_.bat
+│   │   │   │   ├── [Jun 16  2006]  Desabilitar _Definir Acesso a Padrões do Sistema_ em _Adicionar Remover Programas_.bat
+│   │   │   │   ├── [Jun 16  2006]  Desabilitar Informação De Suporte.bat
+│   │   │   │   ├── [Jun 16  2006]  Desabilitar Instalação De Programas Pela Internet.bat
+│   │   │   │   ├── [Jun 16  2006]  Desabilitar Instalação De Programas Pela Rede.bat
+│   │   │   │   ├── [Jun 16  2006]  Desabilitar Instalação De Programas Por CD Ou Disquete.bat
+│   │   │   │   ├── [Jun 16  2006]  Desabilitar _Remover Programas_ em _Adicionar Remover Programas_.bat
+│   │   │   │   └── [Jun 16  2006]  Desabilitar Serviços.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Barra De Tarefas E Menu Iniciar_ Em _Painel De Controle_.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Conexões De Rede_ No _Painel De Controle_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Dispositivos De Mídia Portáteis_ Em _Painel De Controle_.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Ferramentas Administrativas_ No _Painel De Controle_.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Fontes_ No _Painel De Controle_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Impressoras E Aparelhos De Fax_ No _Painel De Controle_.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Opções De Pasta_ No _Painel De Controle_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Painel De Controle_.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Scanners _ Câmeras_ No _Painel De Controle_.bat
+│   │   │   ├── [Oct 27  2006]  Desabilitar _Tarefas Agendadas_ No _Painel De Controle_.bat
+│   │   │   ├── [Mar 31  2008]  Painel de Controle em Modo Clássico.bat
+│   │   │   └── [Nov 12 21:20]  Vídeo
+│   │   │       ├── [Jun 16  2006]  Desabilitar _Aparência_ Em _Video_.bat
+│   │   │       ├── [Jun 16  2006]  Desabilitar _Configurações_ Em _Video_.bat
+│   │   │       ├── [Jun 16  2006]  Desabilitar _Plano de Fundo_ Em _Video_.bat
+│   │   │       ├── [Jun 16  2006]  Desabilitar _Proteção De Tela_ Em _Video_.bat
+│   │   │       ├── [Jun 16  2006]  Desabilitar _Temas_ Em _Video_.bat
+│   │   │       └── [Jun 16  2006]  Desabilitar _Vídeo_ No _Painel de Controle_.bat
+│   │   ├── [Nov 12 21:20]  Bat_s Rede
+│   │   │   ├── [Oct 26  2006]  Compartilhar Discos.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Firewall Do Windows SP1.bat
+│   │   │   ├── [May 19  2007]  Desabilitar Firewall Do Windows SP2.bat
+│   │   │   ├── [Mar 31  2008]  Desativar Notificações do Windows.bat
+│   │   │   ├── [Oct 30  2006]  Desativar Opção Compartilhar Em Propriedades De Pasta E Drive.bat
+│   │   │   ├── [Jun 16  2006]  Esconder Conteúdo Do _Grupo De Trabalho_ Na Rede.bat
+│   │   │   ├── [Jul 17  2006]  Esconder Icone De Conexão De Rede.bat
+│   │   │   ├── [Mar  7  2008]  Habilitar Compartilhamento Via Explorer.bat
+│   │   │   ├── [Sep 27  2006]  Pegar IP Do Computador.bat
+│   │   │   ├── [Jun 16  2006]  Rede Mais Rápida.bat
+│   │   │   └── [Jun 16  2006]  Retirar _Toda Rede_ De _Meus Locais De Rede_.bat
+│   │   ├── [Nov 12 21:20]  Bat_s Regedit
+│   │   │   ├── [Jun 16  2006]  Desabilitar Cache de URL_s No Regedit.bat
+│   │   │   ├── [Jul 11  2006]  Desabilitar _Regedit_.bat
+│   │   │   ├── [Nov  2  2006]  Exportar Policies.bat
+│   │   │   ├── [Oct 23  2006]  Favoritos Regedit Jeziel.bat
+│   │   │   ├── [Sep 21  2008]  FR - Copia.mp3
+│   │   │   ├── [May  1  2007]  FRJ
+│   │   │   ├── [Sep 21  2008]  FR.mp3
+│   │   │   ├── [Oct 27  2006]  Importar Policies.bat
+│   │   │   ├── [Oct  3  2006]  Limpar Cache De Arquivos Que Foram Abertos.bat
+│   │   │   ├── [Jun 16  2006]  Limpar Registro de URL_s - Armazenados No Regedit.bat
+│   │   │   └── [Nov 12 21:20]  Policies
+│   │   │       └── [Nov 12 21:20]  Importar
+│   │   │           ├── [Feb 20  2007]  Pol_HKCU_III.reg
+│   │   │           ├── [Feb 20  2007]  Pol_HKCU_II.reg
+│   │   │           ├── [Feb 20  2007]  Pol_HKCU_I.reg
+│   │   │           ├── [Feb 20  2007]  Pol_HKCU_IV.reg
+│   │   │           └── [Feb 20  2007]  Pol_HKLM.reg
+│   │   ├── [Nov 12 21:20]  Bat_s Relógio
+│   │   │   ├── [Jun 16  2006]  Esconder Relógio.bat
+│   │   │   ├── [Jun 16  2006]  Redefinir Relógio.bat
+│   │   │   ├── [Jun 16  2006]  Relógio Com Estilo Militatar.bat
+│   │   │   └── [Jun 16  2006]  Texto Definido Antes do Relógio.bat
+│   │   ├── [Nov 12 21:20]  Bat_s Sistema
+│   │   │   ├── [Jun 16  2006]  Controle De Usuários.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Desfragmentação Do Boot Do Windows.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Execução de Paginação.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Gerenciador De Dispositivo_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Gerenciador De Tarefas Do Windows_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar _Restauração Do Sistema_.bat
+│   │   │   ├── [Jun 16  2006]  Desabilitar Tela De Boas Vindas.bat
+│   │   │   ├── [Sep  7  2006]  Desativar _Controlador De Eventos De Desligamento_.bat
+│   │   │   ├── [Sep  7  2006]  Desativar _Razões Predefinidas_ De _Desligamento_.bat
+│   │   │   ├── [Jun 16  2006]  Limpar DLL cache.bat
+│   │   │   ├── [Jun 16  2006]  Limpar _PageFile.sys_ Ao Reiniciar.bat
+│   │   │   ├── [Jun 16  2006]  Limpar Registros Deixados Por CD_s de Provedores.bat
+│   │   │   ├── [Feb 20  2007]  Melhorias XP.bat
+│   │   │   ├── [Jun 16  2006]  Mostrar Administrador Em Troca De Usuário.bat
+│   │   │   ├── [Jun 16  2006]  Não Exibir Último Nome De Usuário.bat
+│   │   │   ├── [Feb 20  2007]  Nome Da Organização.bat
+│   │   │   ├── [Oct 19  2006]  Nome Principal.bat
+│   │   │   ├── [Jul 25  2006]  Num Lock Sempre Ligado.bat
+│   │   │   └── [Jun 16  2006]  Usar Memória Cache L2.bat
+│   │   ├── [Nov 12 21:20]  Bat_s Tarefas Agendadas
+│   │   │   ├── [Jul 25  2006]  Desabilitar Execussão Do Agendamento.bat
+│   │   │   ├── [Jul 25  2006]  Desabilitar Finalização Da Tarefa.bat
+│   │   │   ├── [Jul 25  2006]  Desabilitar Propriedades Do Agendamento.bat
+│   │   │   └── [Jul 25  2006]  Desabilitar _Recortar_ E _Copiar_ Agendamento.bat
+│   │   └── [Nov 12 21:20]  Bat_s Windows Media Player
+│   │       ├── [Jun 16  2006]  Desabilitar _Achar Novas Estações_.bat
+│   │       ├── [Jun 16  2006]  Desabilitar _Barra de Rádio_.bat
+│   │       ├── [Jun 16  2006]  Desabilitar _Favoritos de Mídia_.bat
+│   │       ├── [Jun 16  2006]  Desabilitar _Mostrar Âncora_.bat
+│   │       ├── [Jun 16  2006]  Desabilitar Opções de _Privacidade_.bat
+│   │       ├── [Jun 16  2006]  Desabilitar Opções de _Rede_.bat
+│   │       └── [Jun 16  2006]  Desabilitar Opções de _Segurança_.bat
+│   ├── [Nov 12 21:20]  Bat_s ShutDown
+│   │   ├── [Jun 16  2006]  Anular Desligamento do PC.bat
+│   │   ├── [Jun 16  2006]  Desligar PC.bat
+│   │   ├── [Feb  9  2007]  Desligar PC Com Tempo.bat
+│   │   ├── [Jul 25  2006]  Finalizar Todos Os Processos Em Execussão.bat
+│   │   └── [Jun 16  2006]  Reiniciar PC.bat
+│   └── [Nov 12 21:20]  Essenciais
+│       ├── [Oct 28  2006]  AutoRun Para Ao Iniciar Ms-Dos.txt
+│       ├── [Nov  8  2006]  Chaves e Valores - Run e Shell.txt
+│       ├── [Oct  9  2006]  Comandos Autorun.inf.txt
+│       ├── [Oct 10  2006]  Comandos Desktop.ini.txt
+│       ├── [Oct 24  2006]  Extenções Numéricas.txt
+│       ├── [Nov  8  2006]  Parâmetros Bat_s.txt
+│       ├── [Feb 20  2007]  Teclas Em Hexadecimal.txt
+│       └── [Mar 14  2006]  Valores Dos Drives.txt
+├── [Nov 12 21:20]  Delphi
+│   ├── [Nov 12 21:20]  Banco de Dados
+│   │   ├── [Nov 12 21:20]  Criar Banco de Dados
+│   │   │   ├── [Jun  8  2007]  Project1.cfg
+│   │   │   ├── [Jun  8  2007]  Project1.dof
+│   │   │   ├── [Jun  8  2007]  Project1.dpr
+│   │   │   ├── [Jun  8  2007]  Project1.res
+│   │   │   ├── [Jun 14  2007]  Unit1.dcu
+│   │   │   ├── [Jun 14  2007]  Unit1.ddp
+│   │   │   ├── [Jun  8  2007]  Unit1.dfm
+│   │   │   └── [Jun 14  2007]  Unit1.pas
+│   │   ├── [Nov 12 21:21]  MsAccess
+│   │   │   ├── [Jun 14  2007]  PMsAccess.cfg
+│   │   │   ├── [Jun 14  2007]  PMsAccess.dof
+│   │   │   ├── [Jun 14  2007]  PMsAccess.dpr
+│   │   │   ├── [Jun 17  2007]  PMsAccess.exe
+│   │   │   ├── [Jun 13  2007]  PMsAccess.res
+│   │   │   ├── [Nov  7  2018]  TimerCafe.mdb
+│   │   │   ├── [Jun 14  2007]  UMsAccess.dcu
+│   │   │   ├── [Jun 14  2007]  UMsAccess.ddp
+│   │   │   ├── [Jun 14  2007]  UMsAccess.dfm
+│   │   │   ├── [Jun 14  2007]  UMsAccess.pas
+│   │   │   └── [Jun 14  2007]  Unit1.dcu
+│   │   └── [Nov 12 21:20]  Paradox
+│   │       ├── [Jun 14  2007]  PParadox.cfg
+│   │       ├── [Jun 14  2007]  PParadox.dof
+│   │       ├── [Jun 14  2007]  PParadox.dpr
+│   │       ├── [Jul  7  2007]  PParadox.exe
+│   │       ├── [Jun 13  2007]  PParadox.res
+│   │       ├── [Jul  7  2007]  UParadox.dcu
+│   │       ├── [Jun 14  2007]  UParadox.ddp
+│   │       ├── [Jun 14  2007]  UParadox.dfm
+│   │       └── [Jun 14  2007]  UParadox.pas
+│   ├── [Jun  8  2007]  Excluir Temporários.bat
+│   ├── [Nov 12 21:20]  Funções em Delphi
+│   │   ├── [Jun 10  2007]  Funcoes.dcu
+│   │   ├── [Jun 10  2007]  Funcoes.ddp
+│   │   ├── [Jun 10  2007]  Funcoes.dfm
+│   │   ├── [Jun 10  2007]  Funcoes.pas
+│   │   ├── [Jun 10  2007]  PFuncoes.cfg
+│   │   ├── [Jun 10  2007]  PFuncoes.dof
+│   │   ├── [Jun 10  2007]  PFuncoes.dpr
+│   │   └── [May 12  2007]  PFuncoes.res
+│   └── [Nov 12 21:20]  Programa para Configuração Windiws XP
+│       ├── [Jun  5  2007]  CConfigXp.dcu
+│       ├── [Jun  5  2007]  CConfigXp.ddp
+│       ├── [Jun  5  2007]  CConfigXp.dfm
+│       ├── [Jun  5  2007]  CConfigXp.pas
+│       ├── [May 31  2007]  ConfigXp.cfg
+│       ├── [May 31  2007]  ConfigXp.dof
+│       ├── [May 31  2007]  ConfigXp.dpr
+│       ├── [Jun 17  2007]  ConfigXp.exe
+│       ├── [Jun  5  2007]  ConfigXp.exe.bak
+│       └── [May 14  2007]  ConfigXp.res
+├── [Nov 12 21:20]  HTML
+│   ├── [Jan  2  2008]  1.hta
+│   ├── [Nov  5  2007]  Cor da página.hta
+│   ├── [Jan  2  2008]  Criação de Componentes.hta
+│   └── [Nov 21  2007]  Teste.hta
+├── [Jan 10 17:31]  ls-l-R.log
+├── [Nov 12 21:20]  Projetos de Programação-20231113T001829Z-001.zip
+├── [Nov 25  2006]  Projetos de Programação.ico
+├── [Nov 12 21:20]  Scripts
+│   ├── [Nov 12 21:20]  Antídotos
+│   │   ├── [Nov 12 21:20]  Trojan Festas
+│   │   │   ├── [Nov 12 21:20]  Novo
+│   │   │   │   ├── [Apr 24  2008]  binary.bat
+│   │   │   │   └── [Apr 24  2008]  Usar Antídoto Novo.vbs
+│   │   │   └── [Nov 12 21:20]  Velho
+│   │   │       ├── [Apr 24  2008]  Antídoto.bat
+│   │   │       └── [Apr 24  2008]  Usar Antídoto.vbs
+│   │   └── [Nov 12 21:20]  Virus de Pendrive
+│   │       ├── [Jul  9  2008]  Antídoto.bat
+│   │       ├── [Jul  8  2008]  Icones dos Discos Jeziel.bat
+│   │       ├── [May 28  2008]  Icones dos Discos Radio Cidade.bat
+│   │       └── [Jun  3  2008]  Icones PEN JS.bat
+│   ├── [Nov 12 21:20]  Compartilhamentos
+│   │   ├── [May 30  2008]  AdicComp.vbs
+│   │   ├── [May 30  2008]  Desinstalar.bat
+│   │   ├── [Apr 24  2008]  Exibir Processos em Execução.vbs
+│   │   ├── [May 30  2008]  Instalar.bat
+│   │   ├── [May 30  2008]  Mscripts.ini
+│   │   ├── [May 30  2008]  Remover Compartilhamentos.vbs
+│   │   └── [May 30  2008]  Uscripts.ini
+│   ├── [Apr 23  2008]  Forum Invaders • Ver Tópico - Configurando e gerenciando scripts.mht
+│   ├── [Apr 24  2008]  InputBox.vbs
+│   ├── [Apr 24  2008]  Nome do Computador.vbs
+│   ├── [Apr 23  2008]  progerwmi.pdf
+│   ├── [Apr 23  2008]  ScriptMania1.ppt
+│   ├── [Apr 24  2008]  Serviços do Computador.vbs
+│   ├── [Apr 24  2008]  Sistema Operacional.vbs
+│   └── [Apr 24  2008]  Versão do Sistema Peracional.vbs
+├── [Jan 10 17:35]  tree-D.log
+└── [Nov 12 21:20]  Visual Basic
+    ├── [Jan 14  2007]  Excluir Arquivos _.vbw_.bat
+    ├── [Nov 12 21:20]  Jeziel
+    │   ├── [Nov 12 21:20]  Programas da Video Aula - Digerati
+    │   │   ├── [Nov 12 21:20]  Cores
+    │   │   │   ├── [Mar 21  2007]  Cores.exe
+    │   │   │   ├── [Mar 21  2007]  Cores.frm
+    │   │   │   └── [Mar 21  2007]  Cores.vbp
+    │   │   ├── [Nov 12 21:20]  Desenhos Formas
+    │   │   │   ├── [Dec 11  2006]  Desenhos Formas.exe
+    │   │   │   ├── [Dec 11  2006]  Desenhos Formas.frm
+    │   │   │   └── [Dec 11  2006]  Desenhos Formas.vbp
+    │   │   ├── [Nov 12 21:20]  Editor de Texto
+    │   │   │   ├── [Dec  1  2006]  Editor de Texto.exe
+    │   │   │   ├── [Mar 21  2007]  Editor de Texto.frm
+    │   │   │   └── [Mar 21  2007]  Editor de Texto.vbp
+    │   │   ├── [Nov 12 21:20]  Programação Orientada a Eventos
+    │   │   │   ├── [Jan 10  2007]  Programação Orientada a Eventos.frm
+    │   │   │   └── [Jan 10  2007]  Programação Orientada a Eventos.vbp
+    │   │   └── [Nov 12 21:20]  Visualizador de Imagens
+    │   │       ├── [Dec  6  2006]  Visualizador de Imagens.exe
+    │   │       ├── [Dec  6  2006]  Visualizador de Imagens.frm
+    │   │       └── [Dec  6  2006]  Visualizador de Imagens.vbp
+    │   ├── [Nov 12 21:20]  Programas do Cursos _.doc_
+    │   │   ├── [Nov 12 21:20]  Livro Visual Basic
+    │   │   │   ├── [Nov 12 21:20]  01 - Esc Enter
+    │   │   │   │   ├── [Nov 12 21:21]  Esc Enter
+    │   │   │   │   │   ├── [Nov 27  2006]  Esc Enter.exe
+    │   │   │   │   │   ├── [Nov 27  2006]  Esc Enter.frm
+    │   │   │   │   │   └── [Nov 27  2006]  Esc Enter.vbp
+    │   │   │   │   └── [Nov 12 21:20]  Esc Enter - Aperfeiçoado
+    │   │   │   │       ├── [Nov 27  2006]  Esc Enter.exe
+    │   │   │   │       ├── [Nov 27  2006]  Esc Enter.frm
+    │   │   │   │       └── [Nov 27  2006]  Esc Enter.vbp
+    │   │   │   ├── [Nov 12 21:20]  02 - Desabilitar Número Na Caixa de Texto
+    │   │   │   │   ├── [Dec  8  2006]  Desabilitar Número Na Caixa de Texto.exe
+    │   │   │   │   ├── [Dec  8  2006]  Desabilitar Número Na Caixa de Texto.frm
+    │   │   │   │   └── [Dec  8  2006]  Desabilitar Número Na Caixa de Texto.vbp
+    │   │   │   ├── [Nov 12 21:20]  03 - Desabilitar Caixa de Texto
+    │   │   │   │   ├── [Nov 25  2006]  Desabilitar Caixa de Texto.exe
+    │   │   │   │   ├── [Nov 25  2006]  Desabilitar Caixa de Texto.frm
+    │   │   │   │   └── [Nov 25  2006]  Desabilitar Caixa de Texto.vbp
+    │   │   │   ├── [Nov 12 21:20]  04 - Desabilitar Opções
+    │   │   │   │   ├── [Nov 12 21:21]  Cadastro de Clientes
+    │   │   │   │   │   ├── [Nov 25  2006]  Cadastro de Clientes.exe
+    │   │   │   │   │   ├── [Nov 25  2006]  Cadastro de Clientes.frm
+    │   │   │   │   │   └── [Nov 25  2006]  Cadastro de Clientes.vbp
+    │   │   │   │   └── [Nov 12 21:20]  Cadastro de Pacientes
+    │   │   │   │       ├── [Nov 27  2006]  Cadastro de Pacientes.exe
+    │   │   │   │       ├── [Nov 27  2006]  Cadastro de Pacientes.frm
+    │   │   │   │       └── [Nov 27  2006]  Cadastro de Pacientes.vbp
+    │   │   │   ├── [Nov 12 21:20]  05 - Caixa de Lista e Caixa Combo
+    │   │   │   │   ├── [Nov 12 21:20]  Cadastro de Mercadorias
+    │   │   │   │   │   ├── [Nov 23  2006]  Cadastro de Mercadorias.exe
+    │   │   │   │   │   ├── [Nov 23  2006]  Cadastro de Mercadorias.frm
+    │   │   │   │   │   ├── [Nov 23  2006]  Cadastro de Mercadorias.frx
+    │   │   │   │   │   └── [Nov 23  2006]  Cadastro de Mercadorias.vbp
+    │   │   │   │   ├── [Nov 12 21:20]  Caixa de Lista
+    │   │   │   │   │   ├── [Nov 27  2006]  Propriedades Caixa de Lista.exe
+    │   │   │   │   │   ├── [Nov 27  2006]  Propriedades Caixa de Lista.frm
+    │   │   │   │   │   ├── [Nov 27  2006]  Propriedades Caixa de Lista.frx
+    │   │   │   │   │   └── [Nov 27  2006]  Propriedades Caixa de Lista.vbp
+    │   │   │   │   └── [Nov 12 21:21]  Escolher Nomes
+    │   │   │   │       ├── [Nov 25  2006]  Escolher Nomes.exe
+    │   │   │   │       ├── [Nov 25  2006]  Escolher Nomes.frm
+    │   │   │   │       ├── [Nov 25  2006]  Escolher Nomes.frx
+    │   │   │   │       └── [Nov 25  2006]  Escolher Nomes.vbp
+    │   │   │   ├── [Nov 12 21:20]  06 - Trocar Tab Por Enter
+    │   │   │   │   ├── [Nov 24  2006]  Trocar Tab Por Enter.exe
+    │   │   │   │   ├── [Nov 24  2006]  Trocar Tab Por Enter.frm
+    │   │   │   │   └── [Nov 24  2006]  Trocar Tab Por Enter.vbp
+    │   │   │   ├── [Nov 12 21:20]  07 - LostFocus
+    │   │   │   │   └── [Nov 12 21:20]  Cadastro de Funcionários
+    │   │   │   │       ├── [Nov 27  2006]  Cadastro de Funcionários.exe
+    │   │   │   │       ├── [Nov 27  2006]  Cadastro de Funcionários.frm
+    │   │   │   │       └── [Nov 27  2006]  Cadastro de Funcionários.vbp
+    │   │   │   ├── [Nov 12 21:20]  08 - Mnemônico
+    │   │   │   │   ├── [Nov 25  2006]  Mnemônico.exe
+    │   │   │   │   ├── [Nov 25  2006]  Mnemônico.frm
+    │   │   │   │   └── [Nov 25  2006]  Mnemônico.vbp
+    │   │   │   ├── [Nov 12 21:20]  09 - Máscaras de Entrada
+    │   │   │   │   ├── [Nov 27  2006]  Máscaras de Entrada.exe
+    │   │   │   │   ├── [Nov 27  2006]  Máscaras de Entrada.frm
+    │   │   │   │   └── [Nov 27  2006]  Máscaras de Entrada.vbp
+    │   │   │   ├── [Nov 12 21:20]  10 - Caixas de Diálogo
+    │   │   │   │   ├── [Nov 26  2006]  Caixas de Diálogo.exe
+    │   │   │   │   ├── [Mar  9  2007]  Caixas de Diálogo.frm
+    │   │   │   │   └── [Mar  9  2007]  Caixas de Diálogo.vbp
+    │   │   │   ├── [Nov 12 21:20]  11 - Criando Menus
+    │   │   │   │   ├── [Nov 25  2006]  Criando Menus.exe
+    │   │   │   │   ├── [Nov 25  2006]  Criando Menus.frm
+    │   │   │   │   └── [Nov 25  2006]  Criando Menus.vbp
+    │   │   │   ├── [Nov 12 21:20]  12 - Criando Variáveis
+    │   │   │   │   ├── [Nov 27  2006]  Criando Variáveis.exe
+    │   │   │   │   ├── [Nov 27  2006]  Criando Variáveis.frm
+    │   │   │   │   └── [Nov 27  2006]  Criando Variáveis.vbp
+    │   │   │   ├── [Nov 12 21:20]  13 - Matrizes
+    │   │   │   │   ├── [Nov 27  2006]  Matrizes.exe
+    │   │   │   │   ├── [Nov 27  2006]  Matrizes.frm
+    │   │   │   │   └── [Nov 27  2006]  Matrizes.vbp
+    │   │   │   ├── [Nov 12 21:20]  14 - Cálculo Com Variável String
+    │   │   │   │   ├── [Nov 27  2006]  Cálculo.exe
+    │   │   │   │   ├── [Nov 27  2006]  Cálculo.frm
+    │   │   │   │   └── [Nov 27  2006]  Cálculo.vbp
+    │   │   │   ├── [Nov 12 21:20]  15 - Comandos Condicionais
+    │   │   │   │   ├── [Nov 12 21:20]  If - ElseIf
+    │   │   │   │   │   ├── [Nov 27  2006]  ElseIf.exe
+    │   │   │   │   │   ├── [Nov 27  2006]  ElseIf.frm
+    │   │   │   │   │   └── [Nov 27  2006]  ElseIf.vbp
+    │   │   │   │   └── [Nov 12 21:20]  Select Case - Case Is
+    │   │   │   │       ├── [Nov 27  2006]  Case Is.exe
+    │   │   │   │       ├── [Mar 16  2007]  Case Is.frm
+    │   │   │   │       └── [Mar 16  2007]  Case Is.vbp
+    │   │   │   ├── [Nov 12 21:20]  17 - Funções de Auxílio
+    │   │   │   │   ├── [Nov 12 21:20]  01 - Fuções Matemáticas
+    │   │   │   │   │   ├── [Nov 28  2006]  Fuções Matemáticas.exe
+    │   │   │   │   │   ├── [Nov 28  2006]  Fuções Matemáticas.frm
+    │   │   │   │   │   └── [Nov 28  2006]  Fuções Matemáticas.vbp
+    │   │   │   │   ├── [Nov 12 21:20]  02 - Funções de Data e Hora
+    │   │   │   │   │   ├── [Nov 30  2006]  Funções de Data e Hora.exe
+    │   │   │   │   │   ├── [Nov 30  2006]  Funções de Data e Hora.frm
+    │   │   │   │   │   └── [Nov 30  2006]  Funções de Data e Hora.vbp
+    │   │   │   │   ├── [Nov 12 21:20]  03 - Funções de Escolha
+    │   │   │   │   │   ├── [Dec  8  2006]  Funções de Escolha.exe
+    │   │   │   │   │   ├── [Dec  8  2006]  Funções de Escolha.frm
+    │   │   │   │   │   └── [Dec  8  2006]  Funções de Escolha.vbp
+    │   │   │   │   └── [Nov 12 21:20]  04 - Fonção Format
+    │   │   │   │       ├── [Nov 12 21:21]  Formatação de Expressões de Data e Hora
+    │   │   │   │       │   ├── [Dec  9  2006]  FORMAT~1.EXE
+    │   │   │   │       │   ├── [Dec  9  2006]  FORMAT~1.FRM
+    │   │   │   │       │   └── [Dec  9  2006]  FORMAT~1.VBP
+    │   │   │   │       └── [Nov 12 21:21]  Formatação de Expressões Numéricas
+    │   │   │   │           ├── [Dec  9  2006]  FORMAT~1.EXE
+    │   │   │   │           ├── [Dec  9  2006]  FORMAT~1.FRM
+    │   │   │   │           └── [Dec  9  2006]  FORMAT~1.VBP
+    │   │   │   └── [Nov 12 21:20]  18 - Banco de Dados
+    │   │   │       ├── [Jan  8  2007]  Cadastro de Mercadoria.frm
+    │   │   │       ├── [Jan  2  2007]  Controle de Estoque.frm
+    │   │   │       ├── [Jan 10  2007]  Controle de Estoque.vbp
+    │   │   │       └── [Jan  2  2007]  Estoque.mdb
+    │   │   └── [Nov 12 21:20]  Visual Basic 3 Curso Avançado
+    │   │       ├── [Nov 12 21:20]  02 - Common Dialog
+    │   │       │   ├── [Dec 12  2006]  Common Dialog.exe
+    │   │       │   ├── [Dec 12  2006]  Common Dialog.frm
+    │   │       │   └── [Dec 12  2006]  Common Dialog.vbp
+    │   │       ├── [Nov 12 21:20]  03 - Drive List Box, Directory List Box e File List Box
+    │   │       │   ├── [Dec 12  2006]  List Boxes.frm
+    │   │       │   └── [Dec 12  2006]  List Boxes.vbp
+    │   │       ├── [Nov 12 21:20]  05 - KeyPress
+    │   │       │   ├── [Dec 12  2006]  Restringir Valores.exe
+    │   │       │   ├── [Dec 12  2006]  Restringir Valores.frm
+    │   │       │   └── [Dec 12  2006]  Restringir Valores.vbp
+    │   │       ├── [Nov 12 21:20]  06 - KeyDown e KeyUp
+    │   │       │   ├── [Dec 12  2006]  KeyDown KeyUp.exe
+    │   │       │   ├── [Dec 12  2006]  KeyDown KeyUp.frm
+    │   │       │   └── [Dec 12  2006]  KeyDown KeyUp.vbp
+    │   │       ├── [Nov 12 21:20]  07 - Controles e Menus Dinâmicos
+    │   │       │   ├── [Dec 13  2006]  Controles e Menus Dinâmicos.exe
+    │   │       │   ├── [Dec 13  2006]  Controles e Menus Dinâmicos.frm
+    │   │       │   └── [Dec 13  2006]  Controles e Menus Dinâmicos.vbp
+    │   │       └── [Nov 12 21:20]  08 - Aplicações MDI
+    │   │           ├── [Jan 11  2007]  Aplicações MDI.exe
+    │   │           ├── [Jan 11  2007]  Aplicações MDI.vbp
+    │   │           ├── [Oct 21  1997]  BRAZIL.GIF
+    │   │           ├── [Jan 11  2007]  frm_filho.frm
+    │   │           └── [Dec 17  2006]  frm_pai.frm
+    │   └── [Nov 12 21:20]  Testes
+    │       ├── [Nov 12 21:20]  01 - Login_s
+    │       │   ├── [Nov 12 21:20]  Login1
+    │       │   │   ├── [Dec 16  2006]  Login1.exe
+    │       │   │   ├── [Dec 16  2006]  Login1.frm
+    │       │   │   └── [Dec 16  2006]  Login1.vbp
+    │       │   └── [Nov 12 21:20]  Login2
+    │       │       ├── [Mar  3  2007]  Login2.exe
+    │       │       ├── [Mar  3  2007]  Login2.frm
+    │       │       └── [Mar  3  2007]  Login2.vbp
+    │       ├── [Nov 12 21:20]  02 - Excluir
+    │       │   ├── [Mar 17  2007]  Excluir.exe
+    │       │   ├── [Mar 17  2007]  Excluir.frm
+    │       │   ├── [Mar 17  2007]  Excluir.vbp
+    │       │   ├── [Mar 17  2007]  Selecionar Arquivo.frm
+    │       │   └── [Jan 12  2007]  Selecionar Pasta.frm
+    │       ├── [Nov 12 21:20]  03 - Aplicação
+    │       │   ├── [Jan 12  2007]  Aplicação.exe
+    │       │   ├── [Jan 12  2007]  Aplicação.frm
+    │       │   └── [Jan 12  2007]  Aplicação.vbp
+    │       ├── [Nov 12 21:20]  04 - Novo AutoRun Windows XP
+    │       │   ├── [Nov 12 21:20]  AutoRun XP - PhotoShop
+    │       │   │   ├── [Nov 12 21:21]  Botões
+    │       │   │   │   ├── [Feb 25  2007]  Biblioteca de Botões Usados.icl
+    │       │   │   │   ├── [Feb 25  2007]  Fechar_Clicado_24.ico
+    │       │   │   │   ├── [Feb 25  2007]  Fechar_Normal_24.ico
+    │       │   │   │   ├── [Feb 25  2007]  Fechar_Selcionados_24.ico
+    │       │   │   │   ├── [Feb 25  2007]  Ir1_Clicado_24.ico
+    │       │   │   │   ├── [Feb 25  2007]  Ir1_Normal_24.ico
+    │       │   │   │   ├── [Feb 25  2007]  Ir1_Selcionados_24.ico
+    │       │   │   │   ├── [Feb 25  2007]  Ir2_Clicado_24.ico
+    │       │   │   │   ├── [Feb 25  2007]  Ir2_Normal_24.ico
+    │       │   │   │   ├── [Feb 25  2007]  Ir2_Selcionados_24.ico
+    │       │   │   │   ├── [Nov 12 21:21]  Originais
+    │       │   │   │   │   ├── [Feb 21  2007]  Fechar.ico
+    │       │   │   │   │   ├── [Feb 21  2007]  Ir1.ico
+    │       │   │   │   │   ├── [Feb 21  2007]  Ir2.ico
+    │       │   │   │   │   └── [Feb 21  2007]  Voltar.ico
+    │       │   │   │   ├── [Nov 12 21:21]  psd_s
+    │       │   │   │   │   ├── [Feb 25  2007]  Fechar_Clicado.psd
+    │       │   │   │   │   ├── [Feb 25  2007]  Fechar_Normal.psd
+    │       │   │   │   │   ├── [Feb 25  2007]  Fechar_Selcionados.psd
+    │       │   │   │   │   ├── [Feb 25  2007]  Ir1_Clicado.psd
+    │       │   │   │   │   ├── [Feb 25  2007]  Ir1_Normal.psd
+    │       │   │   │   │   ├── [Feb 25  2007]  Ir1_Selcionados.psd
+    │       │   │   │   │   ├── [Feb 25  2007]  Ir2_Clicado.psd
+    │       │   │   │   │   ├── [Feb 25  2007]  Ir2_Normal.psd
+    │       │   │   │   │   ├── [Feb 25  2007]  Ir2_Selcionados.psd
+    │       │   │   │   │   ├── [Feb 25  2007]  Voltar_Clicado.psd
+    │       │   │   │   │   ├── [Feb 25  2007]  Voltar_Normal.psd
+    │       │   │   │   │   └── [Feb 25  2007]  Voltar_Selcionados.psd
+    │       │   │   │   ├── [Feb 25  2007]  Voltar_Clicado_24.ico
+    │       │   │   │   ├── [Feb 25  2007]  Voltar_Normal_24.ico
+    │       │   │   │   └── [Feb 25  2007]  Voltar_Selcionados_24.ico
+    │       │   │   └── [Nov 12 21:21]  Imagens
+    │       │   │       ├── [Mar  8  2007]  Fundo.bmp
+    │       │   │       ├── [Mar  8  2007]  Fundo.psd
+    │       │   │       ├── [Feb 24  2007]  Imagem1.ico
+    │       │   │       └── [Feb 24  2007]  Imagem2.ico
+    │       │   └── [Nov 12 21:20]  AutoRun XP - Programa em VB
+    │       │       ├── [Mar  8  2007]  Inicio.frm
+    │       │       ├── [Mar  8  2007]  Inicio.frx
+    │       │       ├── [Mar  8  2007]  Inicio.vbp
+    │       │       ├── [Mar  8  2007]  Tarefas.frm
+    │       │       ├── [Mar  8  2007]  Tarefas.frx
+    │       │       ├── [Mar  8  2007]  VerificarCompatiblidade.frm
+    │       │       └── [Mar  8  2007]  VerificarCompatiblidade.frx
+    │       ├── [Nov 12 21:20]  05 - AutoRun PenDrive
+    │       │   ├── [Mar 10  2007]  AutoRun PENJS.frm
+    │       │   ├── [Mar 10  2007]  AutoRun PENJS.frx
+    │       │   ├── [Mar 10  2007]  AutoRun PENJS.vbp
+    │       │   ├── [Nov 12 21:21]  Icones
+    │       │   │   ├── [Nov 12 21:21]  Clicados
+    │       │   │   │   ├── [Mar  9  2007]  Jeziel_Clicados.ico
+    │       │   │   │   ├── [Mar  9  2007]  Jeziel_Clicados.psd
+    │       │   │   │   ├── [Mar 10  2007]  Novos_Clicados.ico
+    │       │   │   │   ├── [Mar  9  2007]  Novos_Clicados.psd
+    │       │   │   │   ├── [Mar  9  2007]  Salatiel_Clicados.ico
+    │       │   │   │   └── [Mar  9  2007]  Salatiel_Clicados.psd
+    │       │   │   ├── [Nov 12 21:21]  Normal
+    │       │   │   │   ├── [Mar  9  2007]  Jeziel_Normal.ico
+    │       │   │   │   ├── [Mar  8  2007]  Jeziel_Normal.psd
+    │       │   │   │   ├── [Mar 10  2007]  Novos_Normal.ico
+    │       │   │   │   ├── [Mar  8  2007]  Novos_Normal.psd
+    │       │   │   │   ├── [Mar  8  2007]  Salatiel_Normal.ico
+    │       │   │   │   └── [Mar  8  2007]  Salatiel_Normal.psd
+    │       │   │   └── [Nov 12 21:21]  Selecionados
+    │       │   │       ├── [Mar  9  2007]  Jeziel_Selecionados.ico
+    │       │   │       ├── [Mar  9  2007]  Jeziel_Selecionados.psd
+    │       │   │       ├── [Mar 10  2007]  Novos_Selecionados.ico
+    │       │   │       ├── [Mar  9  2007]  Novos_Selecionados.psd
+    │       │   │       ├── [Mar  9  2007]  Salatiel_Selecionados.ico
+    │       │   │       └── [Mar  9  2007]  Salatiel_Selecionados.psd
+    │       │   └── [Nov 12 21:20]  Imagens
+    │       │       └── [Mar  9  2007]  PENJS.bmp
+    │       ├── [Nov 12 21:20]  06 - Relógio
+    │       │   ├── [Mar 17  2007]  Relógio.exe
+    │       │   ├── [Mar 17  2007]  Relógio.frm
+    │       │   ├── [Mar 29  2007]  Relógio.frx
+    │       │   ├── [Mar 29  2007]  Relógio.vbp
+    │       │   └── [Mar 29  2007]  Sobre.frm
+    │       ├── [Nov 12 21:20]  07 - Ações no Tempo
+    │       │   ├── [Mar 17  2007]  Ações no Tempo.exe
+    │       │   ├── [Mar 17  2007]  Ações no Tempo.frm
+    │       │   └── [Mar 17  2007]  Ações no Tempo.vbp
+    │       ├── [Nov 12 21:20]  08 - O Truque da Soma
+    │       │   ├── [Mar 17  2007]  O Truque da Soma.frm
+    │       │   └── [Mar 17  2007]  O Truque da Soma.vbp
+    │       ├── [Nov 12 21:20]  09 - Variaveis
+    │       │   ├── [Mar 19  2007]  Selecionar Arquivo.frm
+    │       │   ├── [Mar 19  2007]  Variáveis.frm
+    │       │   ├── [Mar 18  2007]  Variáveis.txt
+    │       │   └── [Mar 19  2007]  Variáveis.vbp
+    │       ├── [Nov 12 21:20]  10 - Usando Variaveis do Sistema Operacional
+    │       │   ├── [Mar 19  2007]  Usando Variaveis do Sistema Operacional.frm
+    │       │   └── [Mar 19  2007]  Usando Variaveis do Sistema Operacional.vbp
+    │       ├── [Nov 12 21:20]  Abrir e Salvar Arquivo
+    │       │   ├── [Apr 19  2007]  Abrir e Salvar Arquivo.frm
+    │       │   └── [Apr 14  2007]  Abrir e Salvar Arquivo.vbp
+    │       ├── [Nov 12 21:20]  Barra de Rolagem
+    │       │   ├── [Apr 16  2007]  Barra de Rolagem.frm
+    │       │   └── [Apr 16  2007]  Barra de Rolagem.vbp
+    │       ├── [Nov 12 21:20]  Ganhou 1 Milhão
+    │       │   ├── [Apr 16  2007]  Ganhou 1 Milhão.frm
+    │       │   └── [Apr 16  2007]  Ganhou 1 Milhão.vbp
+    │       ├── [Nov 12 21:20]  Lan House
+    │       │   ├── [Jun  2  2008]  Lan House.frm
+    │       │   └── [Jun  2  2008]  Lan House.vbp
+    │       ├── [Nov 12 21:20]  Salvar e Deletar Registro
+    │       │   ├── [Apr 13  2007]  Chave do Banco de Dados do VB no Registro.txt
+    │       │   ├── [Apr 14  2007]  SalvaDeletaRegistro.vbp
+    │       │   └── [Apr 14  2007]  Salvar e Deletar Registro.frm
+    │       └── [Nov 12 21:20]  Serial do Windows
+    │           ├── [Nov 12 21:20]  Banco de Dados
+    │           │   └── [May  6  2007]  Seriais.db
+    │           ├── [Apr 16  2007]  Serial Windows.frm
+    │           ├── [Apr 16  2007]  Serial Windows.frx
+    │           └── [Apr 16  2007]  Serial Windows.vbp
+    ├── [Dec 15  2006]  MsgBox.doc
+    ├── [Apr 16  2007]  Números dos Erros.txt
+    └── [Dec 11  2006]  Tabela AscII.doc
+
+150 directories, 668 files
